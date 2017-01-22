@@ -1,0 +1,40 @@
+안녕하시다,merhaba
+저,ben
+제 (저의),benim
+씨,bey/hanım
+어느,hangi
+나라,ülke
+사람,insan
+만나다,buluşmak
+반갑다,memnun olmak
+처음 뵙다,(ilk defa görüşülen insanlara) memnun oldum
+저도,ben de
+한국,kore
+일본,japonya
+중국,çin
+캐나다,kanada
+영국,ingiltere
+러시아,rusya
+인도,hindistan
+호주,avustralya
+태국,tayland
+독일,almanya
+미국,abd
+이집트,mısır
+이름,isim
+친구,arkadaş
+한국어,korece
+일본어,japonca
+중국어,çince
+러시아어,rusça
+인도어,hintçe
+누구,kim
+태국어,taylandca
+독일어,almanca
+남자,erkek
+여자,kadın
+선생님,öğretmen
+학생,öğrenci
+수도,başkent
+서울,seul
+하지만,ama

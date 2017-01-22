@@ -1,0 +1,111 @@
+﻿한국어 101 / 수업 6 / 연습 퀴즈 50
+
+1. 길다
+2. 지내다
+3. 귀엽다
+4. 재미있다
+5. 기숙사
+6. 맛있다
+7. 슬프다
+8. 깨끗하다
+9. 시끄럽다
+10. 유명하다
+11. 멋있다
+12. 무섭다
+13. 더럽다
+14. 경치
+15. 따뜻하다
+16. 밉다
+17. 적다
+18. 크다
+19. 착하다
+20. 아름답다
+21. 싸다
+22. 작다
+23. 맛없다
+24. 날씬하다
+25. 불친절하다
+26. 시원하다
+27. 나쁘다
+28. 정말
+29. 넓다
+30. 비싸다
+31. 덥다
+32. 쉽다
+33. 복잡하다
+34. 좁다
+35. 바쁘다
+36. 어떻다
+37. 좋다
+38. 덕분에
+39. 친절하다
+40. 춥다
+41. 때문에
+42. 똑똑하다
+43. 달다
+44. 어렵다
+45. 예쁘다
+46. 즐겁다
+47. 기쁘다
+48. 그렇다
+49. 멀다
+50. 많다
+51. 조용하다
+52. 재미없다
+
+
+-----------------
+
+
+1. uzun olmak
+2. geçinmek
+3. sevimli/tatlı olmak
+4. eğlenceli olmak
+5. yurt
+6. lezzetli olmak
+7. üzgün olmak / üzülmek
+8. temiz olmak
+9. gürültülü olmak
+10. ünlü olmak
+11. şık olmak
+12. korkutucu olmak
+13. kirli olmak
+14. manzara
+15. sıcak/ılık olmak
+16. çirkin olmak
+17. az olmak
+18. büyük olmak
+19. iyi kalpli olmak
+20. güzel olmak
+21. ucuz olmak
+22. küçük olmak
+23. lezzetsiz olmak
+24. zayıf olmak
+25. kaba olmak
+26. serin olmak
+27. kötü olmak
+28. gerçekten
+29. geniş olmak
+30. pahalı olmak
+31. çok sıcak olmak
+32. kolay olmak
+33. kalabalık olmak
+34. dar olmak
+35. meşgul olmak
+36. nasıl olmak
+37. iyi olmak
+38. sayesinde
+39. nazik olmak
+40. soğuk olmak
+41. yüzünden
+42. akıllı olmak
+43. tatlı olmak (yiyecek için)
+44. zor olmak
+45. güzel olmak
+46. eğlenceli olmak
+47. sevinmek
+48. öyle olmak
+49. uzak olmak
+50. çok olmak
+51. sessiz olmak
+52. eğlencesiz olmak

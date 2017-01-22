@@ -1,0 +1,29 @@
+지금,şimdi
+현찰,nakit para
+지갑,cüzdan
+캠퍼스,kampüs
+약국,eczane
+가게,market/bakkal
+물건,eşya/mal
+돈을 찾다,para çekmek
+학원,kurs
+다니다,gidip gelmek
+좋아하다,hoşlanmak
+싫어하다,beğenmemek / nefret etmek
+종업원,tezgahtar / (mağazada) çalışan
+산책(을) 하다,yürüyüş yapmak
+빌리다,ödünç almak
+빌려주다,ödünç vermek
+이야기하다=애기하다,sohbet etmek
+돌아가다,geri dönmek
+도착하다,varmak
+올라가다,yukarı çıkmak
+내려가다,aşağı inmek
+가끔,bazen
+어디에서,nerede
+생선,balık
+고기,et
+소고기,dana eti
+양고기,koyun eti
+닭고기,tavuk eti
+모두=다,tüm

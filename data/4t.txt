@@ -1,0 +1,48 @@
+ne
+banka
+kitapçı
+ofis
+banyo/tuvalet
+postane
+öğrenci yemekhanesi
+kütüphane
+yurt
+alışveriş merkezi
+tiyatro
+hastane
+eczane
+şirket
+market
+park
+pazar
+metro istasyonu
+yatak
+buzdolabı
+süt
+meyve suyu
+su
+kapı
+cep
+iç
+dış
+ön
+arka
+yan
+üst
+alt
+sağ taraf
+sol taraf
+orta
+ara
+çevre/civar
+bodrum
+ve
+çeşitli
+var
+yok
+doğu
+batı
+güney
+kuzey
+beraber
+aile

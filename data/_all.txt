@@ -1,0 +1,449 @@
+1
+안녕하시다,merhaba
+저,ben
+제 (저의),benim
+씨,bey/hanım
+어느,hangi
+나라,ülke
+사람,insan
+만나다,buluşmak
+반갑다,memnun olmak
+처음 뵙다,(ilk defa görüşülen insanlara) memnun oldum
+저도,ben de
+한국,kore
+일본,japonya
+중국,çin
+캐나다,kanada
+영국,ingiltere
+러시아,rusya
+인도,hindistan
+호주,avustralya
+태국,tayland
+독일,almanya
+미국,abd
+이집트,mısır
+이름,isim
+친구,arkadaş
+한국어,korece
+일본어,japonca
+중국어,çince
+러시아어,rusça
+인도어,hintçe
+누구,kim
+태국어,taylandca
+독일어,almanca
+남자,erkek
+여자,kadın
+선생님,öğretmen
+학생,öğrenci
+수도,başkent
+서울,seul
+하지만,ama
+
+2
+영/공,0
+일,1
+이,2
+삼,3
+사,4
+오,5
+육,6
+칠,7
+팔,8
+구,9
+십,10
+이십,20
+삼십,30
+사십,40
+오십,50
+육십,60
+칠십,70
+팔십,80
+구십,90
+백,100
+천,1000
+만,10000
+십만,100000
+백만,1000000
+천만,10000000
+억,100000000
+일월,ocak
+이월,şubat
+삼월,mart
+사월,nisan
+오월,mayıs
+유월,haziran
+칠월,temmuz
+팔월,ağustos
+구월,eylül
+시월,ekim
+십일월,kasım
+십이월,aralık
+몇,kaç
+며칠,kaç gün
+무슨 요일,hangi gün
+일요일,pazar
+월요일,pazartesi
+화요일,salı
+수요일,çarşamba
+목요일,perşembe
+금요일,cuma
+토요일,cumartesi
+휴일,tatil günleri
+몸무게,vücut kütlesi
+킬로그램,kilogram
+그렇다,öyle olmak
+봄,ilkbahar
+여름,yaz
+가을,sonbahar
+겨울,kış
+언제부터,ne zamandan
+언제까지,ne zamana kadar
+어디에서,nereden
+어디까지,nereye
+생일,doğum günü
+날짜,gün/tarih
+참,aklıma gelmişken / bu arada
+어린이날,çocuk bayramı
+방학,okul tatili
+
+3
+사전,sözlük
+잡지,dergi
+교과서,ders kitabı
+돈,para
+여권,pasaport
+신분증 카드,kimlik kartı
+연필,kurşun kalem
+필통,kalem kutusu
+지우개,tebeşir
+자,silgi
+볼펜,cetvel
+손수건,tükenmez kalem
+모자,mendil
+거울,şapka
+열쇠,ayna
+수첩,anahtar
+과자,ajanda
+휴지,atıştırmalık
+창문,peçete/tuvalet kağıdı
+지도,pencere
+칠판,harita
+분필,yazı tahtası
+그림,resm
+달력,takvim
+종이,kağıt
+옷걸이,elbise askısı
+문,kapı
+교실,sınıf
+책상,sıra
+지갑,cüzdan
+의자,sandalye
+텔레비전,televizyon
+컴퓨터,bilgisayar
+가방,çanta
+책,kitap
+이,bu
+저,şu
+그,o
+물건,eşya
+가수,şarkıcı
+은행원,banka çalışanı
+비서,sekreter
+간호사,hemşire
+의사,doktor
+변호사,avukat
+회사원,şirket çalışanı
+교수,profesör
+경찰,polis
+기자,gazeteci
+모델,model
+영화배우,sinema oyuncusu
+회계사,muhasebeci
+
+4
+무엇,ne
+은행,banka
+서점,kitapçı
+사무실,ofis
+화장실,banyo/tuvalet
+우체국,postane
+학생식당,öğrenci yemekhanesi
+도서관,kütüphane
+기숙사,yurt
+백화점,alışveriş merkezi
+극장,tiyatro
+병원,hastane
+약국,eczane
+회사,şirket
+가게,market
+공원,park
+시장,pazar
+지하철역,metro istasyonu
+침대,yatak
+냉장고,buzdolabı
+우유,süt
+주스,meyve suyu
+물,su
+문,kapı
+주머니,cep
+안,iç
+밖,dış
+앞,ön
+뒤,arka
+옆,yan
+위,üst
+아래=밑,alt
+오른쪽,sağ taraf
+왼쪽,sol taraf
+가운데,orta
+사이,ara
+근처,çevre/civar
+지하,bodrum
+그리고,ve
+여러 가지,çeşitli
+있다,var
+없다,yok
+동,doğu
+서,batı
+남,güney
+북,kuzey
+같이=함께,beraber
+가족,aile
+
+5
+제일,en çok
+아침,sabah
+점심,öğlen
+저녁,akşam
+주말,hafta sonu
+식당,yemekhane/restoran
+매일,her gün
+신문,gazete
+음식,yemek(isim)
+매우=아주,çok
+잘,iyice
+자주,sık sık
+가끔,bazen
+날마다,her gün / günden güne
+커피,kahve
+누구,kim
+가다,gitmek
+오다,gelmek
+자다,uyumak
+쓰다,yazmak/kullanmak
+보다,bakmak
+사다,satın almak
+마시다,içmek
+쉬다,dinlenmek
+만나다,buluşmak
+배우다,öğrenmek
+가르치다,öğretmek
+읽다,okumak
+먹다,yemek(fiil)
+입다,giymek
+듣다,dinlemek
+찾다,aramak
+닫다,kapamak
+앉다,oturmak
+기다리다,beklemek
+좋아하다,hoşlanmak/sevmek
+사랑하다,sevmek
+말하다,söylemek/konuşmak
+노래(를) 하다,şarkı söylemek
+일(을) 하다,işte çalışmak
+공부(를) 하다,ders çalışmak
+인사(를) 하다,selamlamak
+운동(을) 하다,spor yapmak
+숙제(를) 하다,ödev yapmak
+무엇을=뭘,neyi
+만,sadece
+살다,yaşamak
+열다,açmak
+만들다,yapmak
+들다,taşımak
+알다,bilmek
+팔다,satmak
+놀다,oynamak
+떠들다,gürültü yapmak
+울다,ağlamak
+불다,(rüzgar) esmek / flüt çalmak / üflemek
+힘들다,zorlanmak / yorgun olmak
+어디에서,nerede
+편지,mektup
+보내다,göndermek
+쇼핑하다,alışveriş yapmak
+헬스클럽,spor merkezi
+무엇=무어=뭐,ne
+무엇을=뭘,neyi
+누구를=누굴,kimi
+...을/를 좋아하다,...den hoşlanmak
+...이/가 좋다,... iyi olması
+
+6
+경치,manzara
+정말,gerçekten
+기숙사,yurt
+어떻다,nasıl olmak
+아름답다,güzel olmak
+깨끗하다,temiz olmak
+더럽다,kirli olmak
+복잡하다,kalabalık olmak
+많다,çok olmak
+적다,az olmak
+예쁘다,güzel olmak
+밉다,çirkin olmak
+좁다,dar olmak
+넓다,geniş olmak
+시원하다,serin olmak
+따뜻하다,sıcak/ılık olmak
+덥다,çok sıcak olmak
+춥다,soğuk olmak
+맛있다,lezzetli olmak
+맛없다,lezzetsiz olmak
+시끄럽다,gürültülü olmak
+조용하다,sessiz olmak
+멋있다,şık olmak
+재미있다,eğlenceli olmak
+재미없다,eğlencesiz olmak
+싸다,ucuz olmak
+비싸다,pahalı olmak
+좋다,iyi olmak
+나쁘다,kötü olmak
+작다,küçük olmak
+크다,büyük olmak
+친절하다,nazik olmak
+불친절하다,kaba olmak
+착하다,iyi kalpli olmak
+무섭다,korkutucu olmak
+어렵다,zor olmak
+쉽다,kolay olmak
+똑똑하다,akıllı olmak
+날씬하다,zayıf olmak
+바쁘다,meşgul olmak
+즐겁다,eğlenceli olmak
+기쁘다,sevinmek
+슬프다,üzgün olmak / üzülmek
+유명하다,ünlü olmak
+귀엽다,sevimli/tatlı olmak
+달다,tatlı olmak (yiyecek için)
+멀다,uzak olmak
+길다,uzun olmak
+지내다,geçinmek
+덕분에,sayesinde
+때문에,yüzünden
+그렇다,öyle olmak
+
+7
+지금,şimdi
+현찰,nakit para
+지갑,cüzdan
+캠퍼스,kampüs
+약국,eczane
+가게,market/bakkal
+물건,eşya/mal
+돈을 찾다,para çekmek
+학원,kurs
+다니다,gidip gelmek
+좋아하다,hoşlanmak
+싫어하다,beğenmemek / nefret etmek
+종업원,tezgahtar / (mağazada) çalışan
+산책(을) 하다,yürüyüş yapmak
+빌리다,ödünç almak
+빌려주다,ödünç vermek
+이야기하다=애기하다,sohbet etmek
+돌아가다,geri dönmek
+도착하다,varmak
+올라가다,yukarı çıkmak
+내려가다,aşağı inmek
+가끔,bazen
+어디에서,nerede
+생선,balık
+고기,et
+소고기,dana eti
+양고기,koyun eti
+닭고기,tavuk eti
+모두=다,tüm
+
+8
+부모님,anne ve bana
+할아버지,büyükbaba
+할머니,büyükanne
+어머니,anne
+아버지,baba
+엄마,anneciğim
+아빠,babacığım
+형,(erkekler için) abi
+오빠,(kızlar için) abi
+누나,(erkekler için) abla
+언니,(kızlar için) abla
+남동생,erkek kardeş
+여동생,kız kardeş
+이모,teyze
+고모,hala
+삼촌,amca
+조카,yeğen
+사진,fotoğraf
+명,(insanlar için) kişi sayısı
+모두,tüm
+고향,memleket
+저희,(kibarca) biz
+교수,profesör
+마치다,bitirmek
+계시다 (있다),bir yerde olmak
+주무시다 (자다),uyumak
+드시다=잡수시다 (먹다),yemek yemek
+돌아가시다 (죽다),ölmek
+드리다 (주다),vermek
+말씀하시다 (말하다),söylemek
+모셔가다 (데려가다),birini bir yere götürmek
+하나,1
+둘,2
+셋,3
+넷,4
+다섯,5
+여섯,6
+일곱,7
+여덟,8
+아홉,9
+열,10
+스물 (스무 + isim),20
+서른,30
+마흔,40
+쉰,50
+예순,60
+일흔,70
+여든,80
+아흔,90
+오전,öğleden önce
+오후,öğleden sonra
+,
+예외,istisna
+나=저,ben
+우리=저희,biz
+말=말씀,söz
+나이=연세,yaş
+밥=진지,yemek
+사람=분,insan/kişi
+생일=생신,doğum günü
+집=댁,ev
+이름=성함,isim
+아내=부인,(kadın) eş
+,
+사림/명/분,insan (adet)
+개,tane (adet)
+잔,fincan (adet)
+병,şişe (adet)
+그릇,tabak (adet)
+대,büyük elektronik eşya  (adet)
+켤레,çift (adet)
+마리,hayvan (adet)
+자루,kalem (adet)
+벌,elbise (adet)
+송이,çiçek (adet)
+장,kağıt (adet)
+통,kutu (adet)
+살,yaş (adet)
+시,saat (adet)
+시간,saat (süre)
+번,defa/kez

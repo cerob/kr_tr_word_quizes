@@ -1,0 +1,111 @@
+﻿한국어 101 / 수업 3 / 연습 퀴즈 41
+
+1. 물건
+2. 책
+3. 그
+4. 교실
+5. 손수건
+6. 교과서
+7. 모델
+8. 영화배우
+9. 신분증 카드
+10. 돈
+11. 필통
+12. 종이
+13. 경찰
+14. 회계사
+15. 기자
+16. 달력
+17. 책상
+18. 창문
+19. ﻿사전
+20. 지도
+21. 과자
+22. 연필
+23. 회사원
+24. 분필
+25. 교수
+26. 이
+27. 지우개
+28. 옷걸이
+29. 열쇠
+30. 자
+31. 여권
+32. 그림
+33. 비서
+34. 가방
+35. 텔레비전
+36. 휴지
+37. 의자
+38. 잡지
+39. 모자
+40. 변호사
+41. 칠판
+42. 지갑
+43. 은행원
+44. 컴퓨터
+45. 거울
+46. 저
+47. 가수
+48. 볼펜
+49. 간호사
+50. 수첩
+51. 문
+52. 의사
+
+
+-----------------
+
+
+1. eşya
+2. kitap
+3. o
+4. sınıf
+5. tükenmez kalem
+6. ders kitabı
+7. model
+8. sinema oyuncusu
+9. kimlik kartı
+10. para
+11. kalem kutusu
+12. kağıt
+13. polis
+14. muhasebeci
+15. gazeteci
+16. takvim
+17. sıra
+18. peçete/tuvalet kağıdı
+19. sözlük
+20. pencere
+21. ajanda
+22. kurşun kalem
+23. şirket çalışanı
+24. yazı tahtası
+25. profesör
+26. bu
+27. tebeşir
+28. elbise askısı
+29. ayna
+30. silgi
+31. pasaport
+32. resm
+33. sekreter
+34. çanta
+35. televizyon
+36. atıştırmalık
+37. sandalye
+38. dergi
+39. mendil
+40. avukat
+41. harita
+42. cüzdan
+43. banka çalışanı
+44. bilgisayar
+45. şapka
+46. şu
+47. şarkıcı
+48. cetvel
+49. hemşire
+50. anahtar
+51. kapı
+52. doktor

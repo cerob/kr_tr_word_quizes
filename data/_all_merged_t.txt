@@ -1,0 +1,432 @@
+merhaba
+ben
+benim
+bey/hanım
+hangi
+ülke
+insan
+buluşmak
+memnun olmak
+(ilk defa görüşülen insanlara) memnun oldum
+ben de
+kore
+japonya
+çin
+kanada
+ingiltere
+rusya
+hindistan
+avustralya
+tayland
+almanya
+abd
+mısır
+isim
+arkadaş
+korece
+japonca
+çince
+rusça
+hintçe
+kim
+taylandca
+almanca
+erkek
+kadın
+öğretmen
+öğrenci
+başkent
+seul
+ama
+0
+1 (çince)
+2 (çince)
+3 (çince)
+4 (çince)
+5 (çince)
+6 (çince)
+7 (çince)
+8 (çince)
+9 (çince)
+10 (çince)
+20 (çince)
+30 (çince)
+40 (çince)
+50 (çince)
+60 (çince)
+70 (çince)
+80 (çince)
+90 (çince)
+100 (çince)
+1000 (çince)
+10000 (çince)
+100000 (çince)
+1000000 (çince)
+10000000 (çince)
+100000000 (çince)
+ocak
+şubat
+mart
+nisan
+mayıs
+haziran
+temmuz
+ağustos
+eylül
+ekim
+kasım
+aralık
+kaç
+kaç gün
+hangi gün
+pazar
+pazartesi
+salı
+çarşamba
+perşembe
+cuma
+cumartesi
+tatil günleri
+vücut kütlesi
+kilogram
+öyle olmak
+ilkbahar
+yaz
+sonbahar
+kış
+ne zamandan
+ne zamana kadar
+nereden
+nereye
+doğum günü
+gün/tarih
+aklıma gelmişken / bu arada
+çocuk bayramı
+okul tatili
+sözlük
+dergi
+ders kitabı
+para
+pasaport
+kimlik kartı
+kurşun kalem
+kalem kutusu
+tebeşir
+silgi
+cetvel
+tükenmez kalem
+mendil
+şapka
+ayna
+anahtar
+ajanda
+atıştırmalık
+peçete/tuvalet kağıdı
+pencere
+harita
+yazı tahtası
+resm
+takvim
+kağıt
+elbise askısı
+kapı
+sınıf
+sıra
+cüzdan
+sandalye
+televizyon
+bilgisayar
+çanta
+kitap
+bu
+şu
+o
+eşya
+şarkıcı
+banka çalışanı
+sekreter
+hemşire
+doktor
+avukat
+şirket çalışanı
+profesör
+polis
+gazeteci
+model
+sinema oyuncusu
+muhasebeci
+ne
+banka
+kitapçı
+ofis
+banyo/tuvalet
+postane
+öğrenci yemekhanesi
+kütüphane
+yurt
+alışveriş merkezi
+tiyatro
+hastane
+eczane
+şirket
+market
+park
+pazar
+metro istasyonu
+yatak
+buzdolabı
+süt
+meyve suyu
+su
+kapı
+cep
+iç
+dış
+ön
+arka
+yan
+üst
+alt
+sağ taraf
+sol taraf
+orta
+ara
+çevre/civar
+bodrum
+ve
+çeşitli
+var
+yok
+doğu
+batı
+güney
+kuzey
+beraber
+aile
+en çok
+sabah
+öğlen
+akşam
+hafta sonu
+yemekhane/restoran
+her gün
+gazete
+yemek(isim)
+çok
+iyice
+sık sık
+bazen
+her gün / günden güne
+kahve
+kim
+gitmek
+gelmek
+uyumak
+yazmak/kullanmak
+bakmak
+satın almak
+içmek
+dinlenmek
+buluşmak
+öğrenmek
+öğretmek
+okumak
+yemek(fiil)
+giymek
+dinlemek
+aramak
+kapamak
+oturmak
+beklemek
+hoşlanmak/sevmek
+sevmek
+söylemek/konuşmak
+şarkı söylemek
+işte çalışmak
+ders çalışmak
+selamlamak
+spor yapmak
+ödev yapmak
+neyi
+sadece
+yaşamak
+açmak
+yapmak
+taşımak
+bilmek
+satmak
+oynamak
+gürültü yapmak
+ağlamak
+(rüzgar) esmek / flüt çalmak / üflemek
+zorlanmak / yorgun olmak
+nerede
+mektup
+göndermek
+alışveriş yapmak
+spor merkezi
+ne
+neyi
+kimi
+...den hoşlanmak
+... iyi olması
+manzara
+gerçekten
+yurt
+nasıl olmak
+güzel olmak
+temiz olmak
+kirli olmak
+kalabalık olmak
+çok olmak
+az olmak
+güzel olmak
+çirkin olmak
+dar olmak
+geniş olmak
+serin olmak
+sıcak/ılık olmak
+çok sıcak olmak
+soğuk olmak
+lezzetli olmak
+lezzetsiz olmak
+gürültülü olmak
+sessiz olmak
+şık olmak
+eğlenceli olmak
+eğlencesiz olmak
+ucuz olmak
+pahalı olmak
+iyi olmak
+kötü olmak
+küçük olmak
+büyük olmak
+nazik olmak
+kaba olmak
+iyi kalpli olmak
+korkutucu olmak
+zor olmak
+kolay olmak
+akıllı olmak
+zayıf olmak
+meşgul olmak
+eğlenceli olmak
+sevinmek
+üzgün olmak / üzülmek
+ünlü olmak
+sevimli/tatlı olmak
+tatlı olmak (yiyecek için)
+uzak olmak
+uzun olmak
+geçinmek
+sayesinde
+yüzünden
+öyle olmak
+şimdi
+nakit para
+cüzdan
+kampüs
+eczane
+market/bakkal
+eşya/mal
+para çekmek
+kurs
+gidip gelmek
+hoşlanmak
+beğenmemek / nefret etmek
+tezgahtar / (mağazada) çalışan
+yürüyüş yapmak
+ödünç almak
+ödünç vermek
+sohbet etmek
+geri dönmek
+varmak
+yukarı çıkmak
+aşağı inmek
+bazen
+nerede
+balık
+et
+dana eti
+koyun eti
+tavuk eti
+tüm
+anne ve bana
+büyükbaba
+büyükanne
+anne
+baba
+anneciğim
+babacığım
+(erkekler için) abi
+(kızlar için) abi
+(erkekler için) abla
+(kızlar için) abla
+erkek kardeş
+kız kardeş
+teyze
+hala
+amca
+yeğen
+fotoğraf
+(insanlar için) kişi sayısı
+tüm
+memleket
+(kibarca) biz
+profesör
+bitirmek
+bir yerde olmak
+uyumak
+yemek yemek
+ölmek
+vermek
+söylemek
+birini bir yere götürmek
+1 (korece)
+2 (korece)
+3 (korece)
+4 (korece)
+5 (korece)
+6 (korece)
+7 (korece)
+8 (korece)
+9 (korece)
+10 (korece)
+20 (korece)
+30 (korece)
+40 (korece)
+50 (korece)
+60 (korece)
+70 (korece)
+80 (korece)
+90 (korece)
+öğleden önce
+öğleden sonra
+istisna
+ben
+biz
+söz
+yaş
+yemek
+insan/kişi
+doğum günü
+ev
+isim
+(kadın) eş
+insan (adet)
+tane (adet)
+fincan (adet)
+şişe (adet)
+tabak (adet)
+büyük elektronik eşya  (adet)
+çift (adet)
+hayvan (adet)
+kalem (adet)
+elbise (adet)
+çiçek (adet)
+kağıt (adet)
+kutu (adet)
+yaş (adet)
+saat (adet)
+saat (süre)
+defa/kez

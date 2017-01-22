@@ -1,0 +1,81 @@
+부모님,anne ve bana
+할아버지,büyükbaba
+할머니,büyükanne
+어머니,anne
+아버지,baba
+엄마,anneciğim
+아빠,babacığım
+형,(erkekler için) abi
+오빠,(kızlar için) abi
+누나,(erkekler için) abla
+언니,(kızlar için) abla
+남동생,erkek kardeş
+여동생,kız kardeş
+이모,teyze
+고모,hala
+삼촌,amca
+조카,yeğen
+사진,fotoğraf
+명,(insanlar için) kişi sayısı
+모두,tüm
+고향,memleket
+저희,(kibarca) biz
+교수,profesör
+마치다,bitirmek
+계시다 (있다),bir yerde olmak
+주무시다 (자다),uyumak
+드시다=잡수시다 (먹다),yemek yemek
+돌아가시다 (죽다),ölmek
+드리다 (주다),vermek
+말씀하시다 (말하다),söylemek
+모셔가다 (데려가다),birini bir yere götürmek
+하나,1
+둘,2
+셋,3
+넷,4
+다섯,5
+여섯,6
+일곱,7
+여덟,8
+아홉,9
+열,10
+스물 (스무 + isim),20
+서른,30
+마흔,40
+쉰,50
+예순,60
+일흔,70
+여든,80
+아흔,90
+오전,öğleden önce
+오후,öğleden sonra
+,
+예외,istisna
+나=저,ben
+우리=저희,biz
+말=말씀,söz
+나이=연세,yaş
+밥=진지,yemek
+사람=분,insan/kişi
+생일=생신,doğum günü
+집=댁,ev
+이름=성함,isim
+아내=부인,(kadın) eş
+,
+사림/명/분,insan (adet)
+개,tane (adet)
+잔,fincan (adet)
+병,şişe (adet)
+그릇,tabak (adet)
+대,büyük elektronik eşya  (adet)
+켤레,çift (adet)
+마리,hayvan (adet)
+자루,kalem (adet)
+벌,elbise (adet)
+송이,çiçek (adet)
+장,kağıt (adet)
+통,kutu (adet)
+살,yaş (adet)
+시,saat (adet)
+시간,saat (süre)
+번,defa/kez

@@ -1,0 +1,65 @@
+영/공,0
+일,1
+이,2
+삼,3
+사,4
+오,5
+육,6
+칠,7
+팔,8
+구,9
+십,10
+이십,20
+삼십,30
+사십,40
+오십,50
+육십,60
+칠십,70
+팔십,80
+구십,90
+백,100
+천,1000
+만,10000
+십만,100000
+백만,1000000
+천만,10000000
+억,100000000
+일월,ocak
+이월,şubat
+삼월,mart
+사월,nisan
+오월,mayıs
+유월,haziran
+칠월,temmuz
+팔월,ağustos
+구월,eylül
+시월,ekim
+십일월,kasım
+십이월,aralık
+몇,kaç
+며칠,kaç gün
+무슨 요일,hangi gün
+일요일,pazar
+월요일,pazartesi
+화요일,salı
+수요일,çarşamba
+목요일,perşembe
+금요일,cuma
+토요일,cumartesi
+휴일,tatil günleri
+몸무게,vücut kütlesi
+킬로그램,kilogram
+그렇다,öyle olmak
+봄,ilkbahar
+여름,yaz
+가을,sonbahar
+겨울,kış
+언제부터,ne zamandan
+언제까지,ne zamana kadar
+어디에서,nereden
+어디까지,nereye
+생일,doğum günü
+날짜,gün/tarih
+참,aklıma gelmişken / bu arada
+어린이날,çocuk bayramı
+방학,okul tatili

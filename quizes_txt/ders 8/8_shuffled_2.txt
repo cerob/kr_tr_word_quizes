@@ -1,0 +1,169 @@
+﻿한국어 101 / 수업 8 / 연습 퀴즈 2
+
+1. 생일=생신
+2. 다섯
+3. 부모님
+4. 누나
+5. 마리
+6. 아버지
+7. 돌아가시다 (죽다)
+8. 이름=성함
+9. 밥=진지
+10. 할아버지
+11. 살
+12. 하나
+13. 마흔
+14. 교수
+15. 나=저
+16. 여든
+17. 할머니
+18. 고모
+19. 벌
+20. 넷
+21. 대
+22. 자루
+23. 
+24. 주무시다 (자다)
+25. 통
+26. 일곱
+27. 어머니
+28. 모두
+29. 언니
+30. 사진
+31. 
+32. 명
+33. 일흔
+34. 나이=연세
+35. 그릇
+36. 켤레
+37. 송이
+38. 서른
+39. 드시다=잡수시다 (먹다)
+40. 여동생
+41. 형
+42. 예외
+43. 아홉
+44. 말=말씀
+45. 장
+46. 모셔가다 (데려가다)
+47. 스물 (스무 + isim)
+48. 오후
+49. 남동생
+50. 아흔
+51. 아빠
+52. 병
+53. 오전
+54. 시간
+55. 여섯
+56. 말씀하시다 (말하다)
+57. 개
+58. 조카
+59. 셋
+60. 사림/명/분
+61. 이모
+62. 고향
+63. 예순
+64. 저희
+65. 삼촌
+66. 아내=부인
+67. 여덟
+68. 둘
+69. 쉰
+70. 드리다 (주다)
+71. 집=댁
+72. 엄마
+73. 오빠
+74. 시
+75. 사람=분
+76. 우리=저희
+77. 계시다 (있다)
+78. 잔
+79. 마치다
+80. 번
+81. 열
+
+
+-----------------
+
+
+1. doğum günü
+2. 5
+3. anne ve bana
+4. (erkekler için) abla
+5. hayvan (adet)
+6. baba
+7. ölmek
+8. isim
+9. yemek
+10. büyükbaba
+11. yaş (adet)
+12. 1
+13. 40
+14. profesör
+15. ben
+16. 80
+17. büyükanne
+18. hala
+19. elbise (adet)
+20. 4
+21. büyük elektronik eşya  (adet)
+22. kalem (adet)
+23. 
+24. uyumak
+25. kutu (adet)
+26. 7
+27. anne
+28. tüm
+29. (kızlar için) abla
+30. fotoğraf
+31. 
+32. (insanlar için) kişi sayısı
+33. 70
+34. yaş
+35. tabak (adet)
+36. çift (adet)
+37. çiçek (adet)
+38. 30
+39. yemek yemek
+40. kız kardeş
+41. (erkekler için) abi
+42. istisna
+43. 9
+44. söz
+45. kağıt (adet)
+46. birini bir yere götürmek
+47. 20
+48. öğleden sonra
+49. erkek kardeş
+50. 90
+51. babacığım
+52. şişe (adet)
+53. öğleden önce
+54. saat (süre)
+55. 6
+56. söylemek
+57. tane (adet)
+58. yeğen
+59. 3
+60. insan (adet)
+61. teyze
+62. memleket
+63. 60
+64. (kibarca) biz
+65. amca
+66. (kadın) eş
+67. 8
+68. 2
+69. 50
+70. vermek
+71. ev
+72. anneciğim
+73. (kızlar için) abi
+74. saat (adet)
+75. insan/kişi
+76. biz
+77. bir yerde olmak
+78. fincan (adet)
+79. bitirmek
+80. defa/kez
+81. 10

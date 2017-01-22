@@ -1,0 +1,81 @@
+anne ve bana
+büyükbaba
+büyükanne
+anne
+baba
+anneciğim
+babacığım
+(erkekler için) abi
+(kızlar için) abi
+(erkekler için) abla
+(kızlar için) abla
+erkek kardeş
+kız kardeş
+teyze
+hala
+amca
+yeğen
+fotoğraf
+(insanlar için) kişi sayısı
+tüm
+memleket
+(kibarca) biz
+profesör
+bitirmek
+bir yerde olmak
+uyumak
+yemek yemek
+ölmek
+vermek
+söylemek
+birini bir yere götürmek
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+20
+30
+40
+50
+60
+70
+80
+90
+öğleden önce
+öğleden sonra
+
+istisna
+ben
+biz
+söz
+yaş
+yemek
+insan/kişi
+doğum günü
+ev
+isim
+(kadın) eş
+
+insan (adet)
+tane (adet)
+fincan (adet)
+şişe (adet)
+tabak (adet)
+büyük elektronik eşya  (adet)
+çift (adet)
+hayvan (adet)
+kalem (adet)
+elbise (adet)
+çiçek (adet)
+kağıt (adet)
+kutu (adet)
+yaş (adet)
+saat (adet)
+saat (süre)
+defa/kez

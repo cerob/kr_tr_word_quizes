@@ -1,0 +1,871 @@
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 99
+
+1. 지갑
+2. 만들다
+3. 문
+4. 기숙사
+5. 미국
+6. 생일=생신
+7. 적다
+8. 어디에서
+9. 남
+10. 어디에서
+11. 한국어
+12. 학생
+13. 손수건
+14. 고모
+15. 러시아어
+16. 종이
+17. 구월
+18. 서른
+19. 없다
+20. 깨끗하다
+21. 일
+22. 앞
+23. 집=댁
+24. 모두
+25. 영화배우
+26. 현찰
+27. 보내다
+28. 비서
+29. 잡지
+30. 시장
+31. ...을/를 좋아하다
+32. 재미있다
+33. 일본어
+34. 육십
+35. 복잡하다
+36. 가수
+37. 기자
+38. 냉장고
+39. 시간
+40. 들다
+41. 이모
+42. 개
+43. 돈
+44. 캠퍼스
+45. 예쁘다
+46. 기다리다
+47. 책상
+48. 십일월
+49. 알다
+50. 귀엽다
+51. 오다
+52. 가운데
+53. 사전
+54. 팔다
+55. 팔월
+56. 산책(을) 하다
+57. 휴일
+58. 누나
+59. 옷걸이
+60. 볼펜
+61. 지우개
+62. 독일어
+63. 친구
+64. 오후
+65. 모셔가다 (데려가다)
+66. 소고기
+67. 춥다
+68. 시원하다
+69. 시월
+70. 삼촌
+71. 은행원
+72. 중국어
+73. 병원
+74. 자주
+75. 팔십
+76. 아홉
+77. 반갑다
+78. 입다
+79. 독일
+80. 간호사
+81. 내려가다
+82. 좋아하다
+83. 금요일
+84. 구
+85. 더럽다
+86. 모두=다
+87. 약국
+88. 여섯
+89. 고기
+90. 몸무게
+91. 억
+92. 사
+93. 열다
+94. 창문
+95. 커피
+96. 셋
+97. 먹다
+98. 어느
+99. 신문
+100. 월요일
+101. 러시아
+102. 방학
+103. 인도어
+104. 사랑하다
+105. 백만
+106. 은행
+107. 그리고
+108. 아내=부인
+109. 과자
+110. 의자
+111. 길다
+112. 제 (저의)
+113. 좁다
+114. 이월
+115. 일곱
+116. 만
+117. 매일
+118. 예순
+119. 물건
+120. 목요일
+121. 잔
+122. 할아버지
+123. 가다
+124. 생선
+125. 장
+126. 싸다
+127. 말씀하시다 (말하다)
+128. 사림/명/분
+129. 넷
+130. 화장실
+131. 동
+132. 헬스클럽
+133. 인도
+134. 그림
+135. 쉬다
+136. 보다
+137. 저녁
+138. 남동생
+139. 뒤
+140. 인사(를) 하다
+141. 맛있다
+142. 시
+143. 칠십
+144. 삼십
+145. 변호사
+146. 따뜻하다
+147. 빌리다
+148. 이야기하다=애기하다
+149. 놀다
+150. 무슨 요일
+151. 왼쪽
+152. 아래=밑
+153. 스물 (스무 + isim)
+154. 이집트
+155. 주머니
+156. 숙제(를) 하다
+157. 올라가다
+158. 나이=연세
+159. 일요일
+160. 여름
+161. 교실
+162. 아름답다
+163. 말하다
+164. 어디에서
+165. 캐나다
+166. 점심
+167. 교수
+168. 여든
+169. 몇
+170. 수요일
+171. 자
+172. 가족
+173. 저
+174. 우유
+175. 삼
+176. 엄마
+177. 주무시다 (자다)
+178. 많다
+179. 재미없다
+180. 기숙사
+181. 쇼핑하다
+182. 쓰다
+183. 영국
+184. 겨울
+185. ...이/가 좋다
+186. 가방
+187. 누구
+188. 양고기
+189. 서울
+190. 어린이날
+191. 중국
+192. 일흔
+193. 삼월
+194. 식당
+195. 사다
+196. 연필
+197. 생일
+198. 킬로그램
+199. 닫다
+200. 지갑
+201. 유월
+202. 명
+203. 칠월
+204. 켤레
+205. 이
+206. 마흔
+207. 형
+208. 멋있다
+209. 학원
+210. 슬프다
+211. 태국어
+212. 교수
+213. 회사원
+214. 북
+215. 수첩
+216. 불다
+217. 찾다
+218. 가끔
+219. 멀다
+220. 책
+221. 공원
+222. 그렇다
+223. 위
+224. 분필
+225. 공부(를) 하다
+226. 봄
+227. 다섯
+228. 경치
+229. 밥=진지
+230. 쉰
+231. 어머니
+232. 오
+233. 정말
+234. 좋아하다
+235. 언니
+236. 참
+237. 약국
+238. 있다
+239. 이십
+240. 학생식당
+241. 언제부터
+242. 아흔
+243. 회사
+244. 달다
+245. 십만
+246. 옆
+247. 침대
+248. 착하다
+249. 가게
+250. 누구
+251. 가끔
+252. 비싸다
+253. 언제까지
+254. 저도
+255. 넓다
+256. 며칠
+257. 이름=성함
+258. 그렇다
+259. 사월
+260. 구십
+261. 여러 가지
+262. 빌려주다
+263. 회계사
+264. 작다
+265. 똑똑하다
+266. 어디까지
+267. 백화점
+268. 필통
+269. 자다
+270. 오전
+271. 다니다
+272. 시끄럽다
+273. 지하
+274. 음식
+275. 배우다
+276. 가르치다
+277. 호주
+278. 할머니
+279. 바쁘다
+280. 태국
+281. 편지
+282. 밖
+283. 그
+284. 만나다
+285. 드리다 (주다)
+286. 크다
+287. 대
+288. 지금
+289. 누구를=누굴
+290. 자루
+291. 나=저
+292. 지내다
+293. 살다
+294. 도서관
+295. 안녕하시다
+296. 처음 뵙다
+297. 텔레비전
+298. 이
+299. 극장
+300. 그릇
+301. 사무실
+302. 십이월
+303. 여자
+304. 오월
+305. 화요일
+306. 사이
+307. 칠판
+308. 어떻다
+309. 즐겁다
+310. 둘
+311. 팔
+312. 잘
+313. 조카
+314. 일본
+315. 의사
+316. 무엇을=뭘
+317. 근처
+318. 지하철역
+319. 오빠
+320. 서점
+321. 씨
+322. 제일
+323. 토요일
+324. 송이
+325. 고향
+326. 수도
+327. 사람=분
+328. 듣다
+329. 서
+330. 만
+331. 앉다
+332. 돌아가다
+333. 거울
+334. 울다
+335. 돌아가시다 (죽다)
+336. 열쇠
+337. 열
+338. 오십
+339. 천
+340. 번
+341. 문
+342. 영/공
+343. 여동생
+344. 무섭다
+345. 사십
+346. 어렵다
+347. 하나
+348. 힘들다
+349. 계시다 (있다)
+350. 나라
+351. 육
+352. 통
+353. 여덟
+354. 한국
+355. 싫어하다
+356. 맛없다
+357. 일(을) 하다
+358. 아침
+359. 유명하다
+360. 살
+361. 휴지
+362. 만나다
+363. 날짜
+364. 가을
+365. 부모님
+366. 가게
+367. 이름
+368. 종업원
+369. 날씬하다
+370. 덕분에
+371. 아빠
+372. 날마다
+373. 우체국
+374. 컴퓨터
+375. 좋다
+376. 우리=저희
+377. 매우=아주
+378. 십
+379. 달력
+380. 떠들다
+381. 칠
+382. 백
+383. 예외
+384. 남자
+385. 무엇
+386. 저희
+387. 친절하다
+388. 덥다
+389. 닭고기
+390. 일월
+391. 드시다=잡수시다 (먹다)
+392. 아버지
+393. 경찰
+394. 천만
+395. 신분증 카드
+396. 무엇=무어=뭐
+397. 밉다
+398. 노래(를) 하다
+399. 때문에
+400. 운동(을) 하다
+401. 교과서
+402. 저
+403. 벌
+404. 오른쪽
+405. 조용하다
+406. 읽다
+407. 마리
+408. 하지만
+409. 지도
+410. 여권
+411. 물
+412. 마치다
+413. 같이=함께
+414. 말=말씀
+415. 돈을 찾다
+416. 사진
+417. 사람
+418. 병
+419. 나쁘다
+420. 무엇을=뭘
+421. 물건
+422. 모델
+423. 선생님
+424. 주스
+425. 주말
+426. 기쁘다
+427. 마시다
+428. 안
+429. 불친절하다
+430. 도착하다
+431. 모자
+432. 쉽다
+
+
+-----------------
+
+
+1. cüzdan
+2. yapmak
+3. kapı
+4. yurt
+5. abd
+6. doğum günü
+7. az olmak
+8. nerede
+9. güney
+10. nerede
+11. korece
+12. öğrenci
+13. tükenmez kalem
+14. hala
+15. rusça
+16. kağıt
+17. eylül
+18. 30 (korece)
+19. yok
+20. temiz olmak
+21. 1 (çince)
+22. ön
+23. ev
+24. tüm
+25. sinema oyuncusu
+26. nakit para
+27. göndermek
+28. sekreter
+29. dergi
+30. pazar
+31. ...den hoşlanmak
+32. eğlenceli olmak
+33. japonca
+34. 60 (çince)
+35. kalabalık olmak
+36. şarkıcı
+37. gazeteci
+38. buzdolabı
+39. saat (süre)
+40. taşımak
+41. teyze
+42. tane (adet)
+43. para
+44. kampüs
+45. güzel olmak
+46. beklemek
+47. sıra
+48. kasım
+49. bilmek
+50. sevimli/tatlı olmak
+51. gelmek
+52. orta
+53. sözlük
+54. satmak
+55. ağustos
+56. yürüyüş yapmak
+57. tatil günleri
+58. (erkekler için) abla
+59. elbise askısı
+60. cetvel
+61. tebeşir
+62. almanca
+63. arkadaş
+64. öğleden sonra
+65. birini bir yere götürmek
+66. dana eti
+67. soğuk olmak
+68. serin olmak
+69. ekim
+70. amca
+71. banka çalışanı
+72. çince
+73. hastane
+74. sık sık
+75. 80 (çince)
+76. 9 (korece)
+77. memnun olmak
+78. giymek
+79. almanya
+80. hemşire
+81. aşağı inmek
+82. hoşlanmak/sevmek
+83. cuma
+84. 9 (çince)
+85. kirli olmak
+86. tüm
+87. eczane
+88. 6 (korece)
+89. et
+90. vücut kütlesi
+91. 100000000 (çince)
+92. 4 (çince)
+93. açmak
+94. peçete/tuvalet kağıdı
+95. kahve
+96. 3 (korece)
+97. yemek(fiil)
+98. hangi
+99. gazete
+100. pazartesi
+101. rusya
+102. okul tatili
+103. hintçe
+104. sevmek
+105. 1000000 (çince)
+106. banka
+107. ve
+108. (kadın) eş
+109. ajanda
+110. sandalye
+111. uzun olmak
+112. benim
+113. dar olmak
+114. şubat
+115. 7 (korece)
+116. sadece
+117. her gün
+118. 60 (korece)
+119. eşya/mal
+120. perşembe
+121. fincan (adet)
+122. büyükbaba
+123. gitmek
+124. balık
+125. kağıt (adet)
+126. ucuz olmak
+127. söylemek
+128. insan (adet)
+129. 4 (korece)
+130. banyo/tuvalet
+131. doğu
+132. spor merkezi
+133. hindistan
+134. resm
+135. dinlenmek
+136. bakmak
+137. akşam
+138. erkek kardeş
+139. arka
+140. selamlamak
+141. lezzetli olmak
+142. saat (adet)
+143. 70 (çince)
+144. 30 (çince)
+145. avukat
+146. sıcak/ılık olmak
+147. ödünç almak
+148. sohbet etmek
+149. oynamak
+150. hangi gün
+151. sol taraf
+152. alt
+153. 20 (korece)
+154. mısır
+155. cep
+156. ödev yapmak
+157. yukarı çıkmak
+158. yaş
+159. pazar
+160. yaz
+161. sınıf
+162. güzel olmak
+163. söylemek/konuşmak
+164. nereden
+165. kanada
+166. öğlen
+167. profesör
+168. 80 (korece)
+169. kaç
+170. çarşamba
+171. silgi
+172. aile
+173. ben
+174. süt
+175. 3 (çince)
+176. anneciğim
+177. uyumak
+178. çok olmak
+179. eğlencesiz olmak
+180. yurt
+181. alışveriş yapmak
+182. yazmak/kullanmak
+183. ingiltere
+184. kış
+185. ... iyi olması
+186. çanta
+187. kim
+188. koyun eti
+189. seul
+190. çocuk bayramı
+191. çin
+192. 70 (korece)
+193. mart
+194. yemekhane/restoran
+195. satın almak
+196. kurşun kalem
+197. doğum günü
+198. kilogram
+199. kapamak
+200. cüzdan
+201. haziran
+202. (insanlar için) kişi sayısı
+203. temmuz
+204. çift (adet)
+205. bu
+206. 40 (korece)
+207. (erkekler için) abi
+208. şık olmak
+209. kurs
+210. üzgün olmak / üzülmek
+211. taylandca
+212. profesör
+213. şirket çalışanı
+214. kuzey
+215. anahtar
+216. (rüzgar) esmek / flüt çalmak / üflemek
+217. aramak
+218. bazen
+219. uzak olmak
+220. kitap
+221. park
+222. öyle olmak
+223. üst
+224. yazı tahtası
+225. ders çalışmak
+226. ilkbahar
+227. 5 (korece)
+228. manzara
+229. yemek
+230. 50 (korece)
+231. anne
+232. 5 (çince)
+233. gerçekten
+234. hoşlanmak
+235. (kızlar için) abla
+236. aklıma gelmişken / bu arada
+237. eczane
+238. var
+239. 20 (çince)
+240. öğrenci yemekhanesi
+241. ne zamandan
+242. 90 (korece)
+243. şirket
+244. tatlı olmak (yiyecek için)
+245. 100000 (çince)
+246. yan
+247. yatak
+248. iyi kalpli olmak
+249. market/bakkal
+250. kim
+251. bazen
+252. pahalı olmak
+253. ne zamana kadar
+254. ben de
+255. geniş olmak
+256. kaç gün
+257. isim
+258. öyle olmak
+259. nisan
+260. 90 (çince)
+261. çeşitli
+262. ödünç vermek
+263. muhasebeci
+264. küçük olmak
+265. akıllı olmak
+266. nereye
+267. alışveriş merkezi
+268. kalem kutusu
+269. uyumak
+270. öğleden önce
+271. gidip gelmek
+272. gürültülü olmak
+273. bodrum
+274. yemek(isim)
+275. öğrenmek
+276. öğretmek
+277. avustralya
+278. büyükanne
+279. meşgul olmak
+280. tayland
+281. mektup
+282. dış
+283. o
+284. buluşmak
+285. vermek
+286. büyük olmak
+287. büyük elektronik eşya  (adet)
+288. şimdi
+289. kimi
+290. kalem (adet)
+291. ben
+292. geçinmek
+293. yaşamak
+294. kütüphane
+295. merhaba
+296. (ilk defa görüşülen insanlara) memnun oldum
+297. televizyon
+298. 2 (çince)
+299. tiyatro
+300. tabak (adet)
+301. ofis
+302. aralık
+303. kadın
+304. mayıs
+305. salı
+306. ara
+307. harita
+308. nasıl olmak
+309. eğlenceli olmak
+310. 2 (korece)
+311. 8 (çince)
+312. iyice
+313. yeğen
+314. japonya
+315. doktor
+316. neyi
+317. çevre/civar
+318. metro istasyonu
+319. (kızlar için) abi
+320. kitapçı
+321. bey/hanım
+322. en çok
+323. cumartesi
+324. çiçek (adet)
+325. memleket
+326. başkent
+327. insan/kişi
+328. dinlemek
+329. batı
+330. 10000 (çince)
+331. oturmak
+332. geri dönmek
+333. şapka
+334. ağlamak
+335. ölmek
+336. ayna
+337. 10 (korece)
+338. 50 (çince)
+339. 1000 (çince)
+340. defa/kez
+341. kapı
+342. 0
+343. kız kardeş
+344. korkutucu olmak
+345. 40 (çince)
+346. zor olmak
+347. 1 (korece)
+348. zorlanmak / yorgun olmak
+349. bir yerde olmak
+350. ülke
+351. 6 (çince)
+352. kutu (adet)
+353. 8 (korece)
+354. kore
+355. beğenmemek / nefret etmek
+356. lezzetsiz olmak
+357. işte çalışmak
+358. sabah
+359. ünlü olmak
+360. yaş (adet)
+361. atıştırmalık
+362. buluşmak
+363. gün/tarih
+364. sonbahar
+365. anne ve bana
+366. market
+367. isim
+368. tezgahtar / (mağazada) çalışan
+369. zayıf olmak
+370. sayesinde
+371. babacığım
+372. her gün / günden güne
+373. postane
+374. bilgisayar
+375. iyi olmak
+376. biz
+377. çok
+378. 10 (çince)
+379. takvim
+380. gürültü yapmak
+381. 7 (çince)
+382. 100 (çince)
+383. istisna
+384. erkek
+385. ne
+386. (kibarca) biz
+387. nazik olmak
+388. çok sıcak olmak
+389. tavuk eti
+390. ocak
+391. yemek yemek
+392. baba
+393. polis
+394. 10000000 (çince)
+395. kimlik kartı
+396. ne
+397. çirkin olmak
+398. şarkı söylemek
+399. yüzünden
+400. spor yapmak
+401. ders kitabı
+402. şu
+403. elbise (adet)
+404. sağ taraf
+405. sessiz olmak
+406. okumak
+407. hayvan (adet)
+408. ama
+409. pencere
+410. pasaport
+411. su
+412. bitirmek
+413. beraber
+414. söz
+415. para çekmek
+416. fotoğraf
+417. insan
+418. şişe (adet)
+419. kötü olmak
+420. neyi
+421. eşya
+422. model
+423. öğretmen
+424. meyve suyu
+425. hafta sonu
+426. sevinmek
+427. içmek
+428. iç
+429. kaba olmak
+430. varmak
+431. mendil
+432. kolay olmak

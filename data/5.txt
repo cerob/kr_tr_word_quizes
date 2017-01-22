@@ -1,0 +1,67 @@
+제일,en çok
+아침,sabah
+점심,öğlen
+저녁,akşam
+주말,hafta sonu
+식당,yemekhane/restoran
+매일,her gün
+신문,gazete
+음식,yemek(isim)
+매우=아주,çok
+잘,iyice
+자주,sık sık
+가끔,bazen
+날마다,her gün / günden güne
+커피,kahve
+누구,kim
+가다,gitmek
+오다,gelmek
+자다,uyumak
+쓰다,yazmak/kullanmak
+보다,bakmak
+사다,satın almak
+마시다,içmek
+쉬다,dinlenmek
+만나다,buluşmak
+배우다,öğrenmek
+가르치다,öğretmek
+읽다,okumak
+먹다,yemek(fiil)
+입다,giymek
+듣다,dinlemek
+찾다,aramak
+닫다,kapamak
+앉다,oturmak
+기다리다,beklemek
+좋아하다,hoşlanmak/sevmek
+사랑하다,sevmek
+말하다,söylemek/konuşmak
+노래(를) 하다,şarkı söylemek
+일(을) 하다,işte çalışmak
+공부(를) 하다,ders çalışmak
+인사(를) 하다,selamlamak
+운동(을) 하다,spor yapmak
+숙제(를) 하다,ödev yapmak
+무엇을=뭘,neyi
+만,sadece
+살다,yaşamak
+열다,açmak
+만들다,yapmak
+들다,taşımak
+알다,bilmek
+팔다,satmak
+놀다,oynamak
+떠들다,gürültü yapmak
+울다,ağlamak
+불다,(rüzgar) esmek / flüt çalmak / üflemek
+힘들다,zorlanmak / yorgun olmak
+어디에서,nerede
+편지,mektup
+보내다,göndermek
+쇼핑하다,alışveriş yapmak
+헬스클럽,spor merkezi
+무엇=무어=뭐,ne
+무엇을=뭘,neyi
+누구를=누굴,kimi
+...을/를 좋아하다,...den hoşlanmak
+...이/가 좋다,... iyi olması

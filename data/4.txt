@@ -1,0 +1,48 @@
+무엇,ne
+은행,banka
+서점,kitapçı
+사무실,ofis
+화장실,banyo/tuvalet
+우체국,postane
+학생식당,öğrenci yemekhanesi
+도서관,kütüphane
+기숙사,yurt
+백화점,alışveriş merkezi
+극장,tiyatro
+병원,hastane
+약국,eczane
+회사,şirket
+가게,market
+공원,park
+시장,pazar
+지하철역,metro istasyonu
+침대,yatak
+냉장고,buzdolabı
+우유,süt
+주스,meyve suyu
+물,su
+문,kapı
+주머니,cep
+안,iç
+밖,dış
+앞,ön
+뒤,arka
+옆,yan
+위,üst
+아래=밑,alt
+오른쪽,sağ taraf
+왼쪽,sol taraf
+가운데,orta
+사이,ara
+근처,çevre/civar
+지하,bodrum
+그리고,ve
+여러 가지,çeşitli
+있다,var
+없다,yok
+동,doğu
+서,batı
+남,güney
+북,kuzey
+같이=함께,beraber
+가족,aile

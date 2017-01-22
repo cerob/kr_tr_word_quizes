@@ -1,0 +1,87 @@
+﻿한국어 101 / 수업 1 / 연습 퀴즈 32
+
+1. 독일어
+2. 일본
+3. 러시아어
+4. 학생
+5. 일본어
+6. 태국어
+7. 사람
+8. 어느
+9. 친구
+10. 선생님
+11. 안녕하시다
+12. 나라
+13. 수도
+14. 독일
+15. 저도
+16. 미국
+17. 서울
+18. 인도어
+19. 남자
+20. 하지만
+21. 여자
+22. 인도
+23. 한국어
+24. 러시아
+25. 중국
+26. 제 (저의)
+27. 태국
+28. 중국어
+29. 영국
+30. 호주
+31. 만나다
+32. 한국
+33. 반갑다
+34. 이집트
+35. 캐나다
+36. 저
+37. 누구
+38. 씨
+39. 처음 뵙다
+40. 이름
+
+
+-----------------
+
+
+1. almanca
+2. japonya
+3. rusça
+4. öğrenci
+5. japonca
+6. taylandca
+7. insan
+8. hangi
+9. arkadaş
+10. öğretmen
+11. merhaba
+12. ülke
+13. başkent
+14. almanya
+15. ben de
+16. abd
+17. seul
+18. hintçe
+19. erkek
+20. ama
+21. kadın
+22. hindistan
+23. korece
+24. rusya
+25. çin
+26. benim
+27. tayland
+28. çince
+29. ingiltere
+30. avustralya
+31. buluşmak
+32. kore
+33. memnun olmak
+34. mısır
+35. kanada
+36. ben
+37. kim
+38. bey/hanım
+39. (ilk defa görüşülen insanlara) memnun oldum
+40. isim

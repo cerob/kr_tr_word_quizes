@@ -1,0 +1,52 @@
+경치,manzara
+정말,gerçekten
+기숙사,yurt
+어떻다,nasıl olmak
+아름답다,güzel olmak
+깨끗하다,temiz olmak
+더럽다,kirli olmak
+복잡하다,kalabalık olmak
+많다,çok olmak
+적다,az olmak
+예쁘다,güzel olmak
+밉다,çirkin olmak
+좁다,dar olmak
+넓다,geniş olmak
+시원하다,serin olmak
+따뜻하다,sıcak/ılık olmak
+덥다,çok sıcak olmak
+춥다,soğuk olmak
+맛있다,lezzetli olmak
+맛없다,lezzetsiz olmak
+시끄럽다,gürültülü olmak
+조용하다,sessiz olmak
+멋있다,şık olmak
+재미있다,eğlenceli olmak
+재미없다,eğlencesiz olmak
+싸다,ucuz olmak
+비싸다,pahalı olmak
+좋다,iyi olmak
+나쁘다,kötü olmak
+작다,küçük olmak
+크다,büyük olmak
+친절하다,nazik olmak
+불친절하다,kaba olmak
+착하다,iyi kalpli olmak
+무섭다,korkutucu olmak
+어렵다,zor olmak
+쉽다,kolay olmak
+똑똑하다,akıllı olmak
+날씬하다,zayıf olmak
+바쁘다,meşgul olmak
+즐겁다,eğlenceli olmak
+기쁘다,sevinmek
+슬프다,üzgün olmak / üzülmek
+유명하다,ünlü olmak
+귀엽다,sevimli/tatlı olmak
+달다,tatlı olmak (yiyecek için)
+멀다,uzak olmak
+길다,uzun olmak
+지내다,geçinmek
+덕분에,sayesinde
+때문에,yüzünden
+그렇다,öyle olmak

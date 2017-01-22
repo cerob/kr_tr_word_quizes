@@ -1,0 +1,52 @@
+﻿사전,sözlük
+잡지,dergi
+교과서,ders kitabı
+돈,para
+여권,pasaport
+신분증 카드,kimlik kartı
+연필,kurşun kalem
+필통,kalem kutusu
+지우개,tebeşir
+자,silgi
+볼펜,cetvel
+손수건,tükenmez kalem
+모자,mendil
+거울,şapka
+열쇠,ayna
+수첩,anahtar
+과자,ajanda
+휴지,atıştırmalık
+창문,peçete/tuvalet kağıdı
+지도,pencere
+칠판,harita
+분필,yazı tahtası
+그림,resm
+달력,takvim
+종이,kağıt
+옷걸이,elbise askısı
+문,kapı
+교실,sınıf
+책상,sıra
+지갑,cüzdan
+의자,sandalye
+텔레비전,televizyon
+컴퓨터,bilgisayar
+가방,çanta
+책,kitap
+이,bu
+저,şu
+그,o
+물건,eşya
+가수,şarkıcı
+은행원,banka çalışanı
+비서,sekreter
+간호사,hemşire
+의사,doktor
+변호사,avukat
+회사원,şirket çalışanı
+교수,profesör
+경찰,polis
+기자,gazeteci
+모델,model
+영화배우,sinema oyuncusu
+회계사,muhasebeci

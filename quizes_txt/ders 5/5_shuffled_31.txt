@@ -1,0 +1,141 @@
+﻿한국어 101 / 수업 5 / 연습 퀴즈 31
+
+1. 오다
+2. 앉다
+3. 식당
+4. 음식
+5. 울다
+6. 커피
+7. 먹다
+8. 기다리다
+9. 무엇을=뭘
+10. 무엇=무어=뭐
+11. 운동(을) 하다
+12. 말하다
+13. 불다
+14. 열다
+15. 공부(를) 하다
+16. ...이/가 좋다
+17. 인사(를) 하다
+18. 가르치다
+19. ...을/를 좋아하다
+20. 들다
+21. 무엇을=뭘
+22. 제일
+23. 가끔
+24. 만나다
+25. 쉬다
+26. 점심
+27. 만들다
+28. 누구를=누굴
+29. 누구
+30. 보다
+31. 힘들다
+32. 쓰다
+33. 만
+34. 어디에서
+35. 읽다
+36. 살다
+37. 매일
+38. 일(을) 하다
+39. 자주
+40. 닫다
+41. 매우=아주
+42. 알다
+43. 마시다
+44. 노래(를) 하다
+45. 헬스클럽
+46. 떠들다
+47. 주말
+48. 자다
+49. 듣다
+50. 보내다
+51. 사랑하다
+52. 편지
+53. 배우다
+54. 찾다
+55. 쇼핑하다
+56. 날마다
+57. 숙제(를) 하다
+58. 좋아하다
+59. 신문
+60. 팔다
+61. 저녁
+62. 가다
+63. 놀다
+64. 입다
+65. 사다
+66. 아침
+67. 잘
+
+
+-----------------
+
+
+1. gelmek
+2. oturmak
+3. yemekhane/restoran
+4. yemek(isim)
+5. ağlamak
+6. kahve
+7. yemek(fiil)
+8. beklemek
+9. neyi
+10. ne
+11. spor yapmak
+12. söylemek/konuşmak
+13. (rüzgar) esmek / flüt çalmak / üflemek
+14. açmak
+15. ders çalışmak
+16. ... iyi olması
+17. selamlamak
+18. öğretmek
+19. ...den hoşlanmak
+20. taşımak
+21. neyi
+22. en çok
+23. bazen
+24. buluşmak
+25. dinlenmek
+26. öğlen
+27. yapmak
+28. kimi
+29. kim
+30. bakmak
+31. zorlanmak / yorgun olmak
+32. yazmak/kullanmak
+33. sadece
+34. nerede
+35. okumak
+36. yaşamak
+37. her gün
+38. işte çalışmak
+39. sık sık
+40. kapamak
+41. çok
+42. bilmek
+43. içmek
+44. şarkı söylemek
+45. spor merkezi
+46. gürültü yapmak
+47. hafta sonu
+48. uyumak
+49. dinlemek
+50. göndermek
+51. sevmek
+52. mektup
+53. öğrenmek
+54. aramak
+55. alışveriş yapmak
+56. her gün / günden güne
+57. ödev yapmak
+58. hoşlanmak/sevmek
+59. gazete
+60. satmak
+61. akşam
+62. gitmek
+63. oynamak
+64. giymek
+65. satın almak
+66. sabah
+67. iyice

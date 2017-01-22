@@ -1,0 +1,103 @@
+﻿한국어 101 / 수업 4 / 연습 퀴즈 5
+
+1. 주스
+2. 지하
+3. 밖
+4. 도서관
+5. 물
+6. 북
+7. 약국
+8. 근처
+9. 그리고
+10. 오른쪽
+11. 공원
+12. 없다
+13. 가족
+14. 병원
+15. 침대
+16. 위
+17. 가운데
+18. 가게
+19. 사이
+20. 같이=함께
+21. 사무실
+22. 뒤
+23. 우체국
+24. 무엇
+25. 회사
+26. 극장
+27. 서점
+28. 은행
+29. 앞
+30. 남
+31. 옆
+32. 있다
+33. 문
+34. 안
+35. 여러 가지
+36. 기숙사
+37. 시장
+38. 아래=밑
+39. 주머니
+40. 냉장고
+41. 우유
+42. 지하철역
+43. 서
+44. 화장실
+45. 동
+46. 백화점
+47. 왼쪽
+48. 학생식당
+
+
+-----------------
+
+
+1. meyve suyu
+2. bodrum
+3. dış
+4. kütüphane
+5. su
+6. kuzey
+7. eczane
+8. çevre/civar
+9. ve
+10. sağ taraf
+11. park
+12. yok
+13. aile
+14. hastane
+15. yatak
+16. üst
+17. orta
+18. market
+19. ara
+20. beraber
+21. ofis
+22. arka
+23. postane
+24. ne
+25. şirket
+26. tiyatro
+27. kitapçı
+28. banka
+29. ön
+30. güney
+31. yan
+32. var
+33. kapı
+34. iç
+35. çeşitli
+36. yurt
+37. pazar
+38. alt
+39. cep
+40. buzdolabı
+41. süt
+42. metro istasyonu
+43. batı
+44. banyo/tuvalet
+45. doğu
+46. alışveriş merkezi
+47. sol taraf
+48. öğrenci yemekhanesi

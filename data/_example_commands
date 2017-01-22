@@ -1,0 +1,5 @@
+python _split.py 7.txt 7k.txt 0
+
+python _merge.py 7k.txt 7t.txt 7.txt
+
+python _replace_mistake.py input.txt config.txt
