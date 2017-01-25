@@ -1,111 +1,111 @@
-﻿한국어 101 / 수업 3 / 연습 퀴즈 42
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 42
 
-1. 문
-2. 의자
-3. 휴지
-4. 회사원
-5. 연필
-6. 여권
-7. 회계사
-8. 달력
-9. 가수
-10. 책상
-11. 신분증 카드
-12. 교실
-13. 칠판
-14. 교과서
-15. 비서
-16. 창문
-17. 텔레비전
-18. 기자
-19. 변호사
-20. 볼펜
-21. 필통
-22. 간호사
-23. 자
-24. 이
-25. 경찰
-26. 옷걸이
-27. 잡지
-28. 가방
-29. 종이
-30. 손수건
-31. 과자
-32. ﻿사전
-33. 모자
-34. 의사
-35. 열쇠
-36. 지갑
-37. 교수
-38. 저
-39. 컴퓨터
-40. 물건
-41. 지도
-42. 거울
-43. 분필
-44. 그림
-45. 그
-46. 수첩
-47. 책
-48. 지우개
-49. 돈
-50. 모델
-51. 은행원
-52. 영화배우
+1. 잡지
+2. 과자
+3. 저
+4. 달력
+5. 회사원
+6. 텔레비전
+7. 가방
+8. 기자
+9. 그
+10. 이
+11. 간호사
+12. 그림
+13. 가수
+14. 모델
+15. 거울
+16. 의자
+17. 열쇠
+18. 칠판
+19. 컴퓨터
+20. 돈
+21. 교실
+22. 책
+23. 회계사
+24. 지갑
+25. 문
+26. 필통
+27. 의사
+28. 은행원
+29. 물건
+30. 지도
+31. 모자
+32. 교수
+33. 옷걸이
+34. 영화배우
+35. 종이
+36. 수첩
+37. 분필
+38. ﻿사전
+39. 창문
+40. 경찰
+41. 교과서
+42. 휴지
+43. 자
+44. 비서
+45. 여권
+46. 변호사
+47. 볼펜
+48. 신분증 카드
+49. 지우개
+50. 책상
+51. 손수건
+52. 연필
 
 
 -----------------
 
 
-1. kapı
-2. sandalye
-3. atıştırmalık
-4. şirket çalışanı
-5. kurşun kalem
-6. pasaport
-7. muhasebeci
-8. takvim
-9. şarkıcı
-10. sıra
-11. kimlik kartı
-12. sınıf
-13. harita
-14. ders kitabı
-15. sekreter
-16. peçete/tuvalet kağıdı
-17. televizyon
-18. gazeteci
-19. avukat
-20. cetvel
-21. kalem kutusu
-22. hemşire
-23. silgi
-24. bu
-25. polis
-26. elbise askısı
-27. dergi
-28. çanta
-29. kağıt
-30. tükenmez kalem
-31. ajanda
-32. sözlük
-33. mendil
-34. doktor
-35. ayna
-36. cüzdan
-37. profesör
-38. şu
-39. bilgisayar
-40. eşya
-41. pencere
-42. şapka
-43. yazı tahtası
-44. resm
-45. o
-46. anahtar
-47. kitap
-48. tebeşir
-49. para
-50. model
-51. banka çalışanı
-52. sinema oyuncusu
+1. dergi
+2. atıştırmalık
+3. şu
+4. takvim
+5. şirket çalışanı
+6. televizyon
+7. çanta
+8. gazeteci
+9. o
+10. bu
+11. hemşire
+12. resim
+13. şarkıcı
+14. model
+15. ayna
+16. sandalye
+17. anahtar
+18. yazı tahtası
+19. bilgisayar
+20. para
+21. sınıf
+22. kitap
+23. muhasebeci
+24. cüzdan
+25. kapı
+26. kalem kutusu
+27. doktor
+28. banka çalışanı
+29. eşya
+30. harita
+31. şapka
+32. profesör
+33. elbise askısı
+34. sinema oyuncusu
+35. kağıt
+36. ajanda
+37. tebeşir
+38. sözlük
+39. pencere
+40. polis
+41. ders kitabı
+42. peçete/tuvalet kağıdı
+43. cetvel
+44. sekreter
+45. pasaport
+46. avukat
+47. tükenmez kalem
+48. kimlik kartı
+49. silgi
+50. sıra
+51. mendil
+52. kurşun kalem

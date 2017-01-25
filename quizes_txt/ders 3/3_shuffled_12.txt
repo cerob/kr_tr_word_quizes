@@ -1,111 +1,111 @@
-﻿한국어 101 / 수업 3 / 연습 퀴즈 12
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 12
 
-1. 열쇠
-2. 컴퓨터
-3. 창문
-4. 의사
-5. 교과서
-6. 은행원
-7. 지도
-8. 필통
-9. 책
-10. 신분증 카드
-11. 칠판
-12. 그
-13. 옷걸이
-14. 교실
-15. 그림
-16. 연필
-17. 변호사
-18. 여권
-19. 수첩
-20. 기자
-21. 간호사
-22. 이
-23. 종이
-24. 회사원
-25. 영화배우
-26. 잡지
-27. 의자
-28. 볼펜
-29. 달력
-30. ﻿사전
-31. 휴지
-32. 텔레비전
-33. 비서
-34. 저
-35. 손수건
-36. 교수
-37. 문
-38. 경찰
-39. 지우개
-40. 지갑
-41. 분필
-42. 모자
-43. 물건
-44. 가방
-45. 책상
-46. 과자
-47. 돈
-48. 모델
-49. 가수
-50. 회계사
-51. 자
-52. 거울
+1. 책
+2. 가방
+3. 손수건
+4. 문
+5. 교실
+6. 모델
+7. 기자
+8. 볼펜
+9. 지도
+10. 과자
+11. 저
+12. 거울
+13. 간호사
+14. 은행원
+15. 교과서
+16. 창문
+17. 휴지
+18. 달력
+19. 종이
+20. 교수
+21. 이
+22. 텔레비전
+23. 비서
+24. 필통
+25. 연필
+26. 책상
+27. 그
+28. 경찰
+29. 의사
+30. 지우개
+31. 회계사
+32. ﻿사전
+33. 물건
+34. 가수
+35. 변호사
+36. 분필
+37. 의자
+38. 돈
+39. 열쇠
+40. 잡지
+41. 그림
+42. 신분증 카드
+43. 자
+44. 회사원
+45. 여권
+46. 칠판
+47. 수첩
+48. 지갑
+49. 옷걸이
+50. 영화배우
+51. 모자
+52. 컴퓨터
 
 
 -----------------
 
 
-1. ayna
-2. bilgisayar
-3. peçete/tuvalet kağıdı
-4. doktor
-5. ders kitabı
-6. banka çalışanı
-7. pencere
-8. kalem kutusu
-9. kitap
-10. kimlik kartı
-11. harita
-12. o
-13. elbise askısı
-14. sınıf
-15. resm
-16. kurşun kalem
-17. avukat
-18. pasaport
-19. anahtar
-20. gazeteci
-21. hemşire
-22. bu
-23. kağıt
-24. şirket çalışanı
-25. sinema oyuncusu
-26. dergi
-27. sandalye
-28. cetvel
-29. takvim
-30. sözlük
-31. atıştırmalık
-32. televizyon
-33. sekreter
-34. şu
-35. tükenmez kalem
-36. profesör
-37. kapı
-38. polis
-39. tebeşir
-40. cüzdan
-41. yazı tahtası
-42. mendil
-43. eşya
-44. çanta
-45. sıra
-46. ajanda
-47. para
-48. model
-49. şarkıcı
-50. muhasebeci
-51. silgi
-52. şapka
+1. kitap
+2. çanta
+3. mendil
+4. kapı
+5. sınıf
+6. model
+7. gazeteci
+8. tükenmez kalem
+9. harita
+10. atıştırmalık
+11. şu
+12. ayna
+13. hemşire
+14. banka çalışanı
+15. ders kitabı
+16. pencere
+17. peçete/tuvalet kağıdı
+18. takvim
+19. kağıt
+20. profesör
+21. bu
+22. televizyon
+23. sekreter
+24. kalem kutusu
+25. kurşun kalem
+26. sıra
+27. o
+28. polis
+29. doktor
+30. silgi
+31. muhasebeci
+32. sözlük
+33. eşya
+34. şarkıcı
+35. avukat
+36. tebeşir
+37. sandalye
+38. para
+39. anahtar
+40. dergi
+41. resim
+42. kimlik kartı
+43. cetvel
+44. şirket çalışanı
+45. pasaport
+46. yazı tahtası
+47. ajanda
+48. cüzdan
+49. elbise askısı
+50. sinema oyuncusu
+51. şapka
+52. bilgisayar

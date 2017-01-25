@@ -1,111 +1,111 @@
-﻿한국어 101 / 수업 3 / 연습 퀴즈 22
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 22
 
-1. 모자
-2. 지우개
-3. 컴퓨터
-4. 연필
-5. 수첩
-6. 자
-7. 그
-8. 물건
-9. 신분증 카드
-10. 창문
-11. 교과서
-12. 그림
-13. 볼펜
-14. 지도
-15. ﻿사전
-16. 비서
-17. 필통
-18. 의사
-19. 과자
-20. 저
-21. 변호사
-22. 책상
-23. 교수
-24. 지갑
-25. 텔레비전
-26. 돈
-27. 기자
-28. 가수
-29. 칠판
-30. 여권
-31. 경찰
-32. 가방
-33. 잡지
-34. 분필
-35. 옷걸이
-36. 교실
-37. 책
-38. 거울
-39. 간호사
+1. 회계사
+2. 손수건
+3. 경찰
+4. 수첩
+5. 지갑
+6. 연필
+7. ﻿사전
+8. 가수
+9. 텔레비전
+10. 과자
+11. 그림
+12. 신분증 카드
+13. 영화배우
+14. 거울
+15. 의자
+16. 볼펜
+17. 잡지
+18. 교수
+19. 회사원
+20. 지도
+21. 은행원
+22. 저
+23. 열쇠
+24. 기자
+25. 칠판
+26. 가방
+27. 책상
+28. 지우개
+29. 돈
+30. 교과서
+31. 간호사
+32. 자
+33. 물건
+34. 필통
+35. 창문
+36. 모자
+37. 달력
+38. 휴지
+39. 이
 40. 모델
-41. 문
-42. 의자
-43. 영화배우
-44. 은행원
-45. 휴지
-46. 열쇠
-47. 회계사
-48. 이
-49. 종이
-50. 손수건
-51. 달력
-52. 회사원
+41. 종이
+42. 변호사
+43. 분필
+44. 그
+45. 책
+46. 비서
+47. 의사
+48. 문
+49. 옷걸이
+50. 컴퓨터
+51. 여권
+52. 교실
 
 
 -----------------
 
 
-1. mendil
-2. tebeşir
-3. bilgisayar
-4. kurşun kalem
-5. anahtar
-6. silgi
-7. o
-8. eşya
-9. kimlik kartı
-10. peçete/tuvalet kağıdı
-11. ders kitabı
-12. resm
-13. cetvel
-14. pencere
-15. sözlük
-16. sekreter
-17. kalem kutusu
-18. doktor
-19. ajanda
-20. şu
-21. avukat
-22. sıra
-23. profesör
-24. cüzdan
-25. televizyon
-26. para
-27. gazeteci
-28. şarkıcı
-29. harita
-30. pasaport
-31. polis
-32. çanta
-33. dergi
-34. yazı tahtası
-35. elbise askısı
-36. sınıf
-37. kitap
-38. şapka
-39. hemşire
+1. muhasebeci
+2. mendil
+3. polis
+4. ajanda
+5. cüzdan
+6. kurşun kalem
+7. sözlük
+8. şarkıcı
+9. televizyon
+10. atıştırmalık
+11. resim
+12. kimlik kartı
+13. sinema oyuncusu
+14. ayna
+15. sandalye
+16. tükenmez kalem
+17. dergi
+18. profesör
+19. şirket çalışanı
+20. harita
+21. banka çalışanı
+22. şu
+23. anahtar
+24. gazeteci
+25. yazı tahtası
+26. çanta
+27. sıra
+28. silgi
+29. para
+30. ders kitabı
+31. hemşire
+32. cetvel
+33. eşya
+34. kalem kutusu
+35. pencere
+36. şapka
+37. takvim
+38. peçete/tuvalet kağıdı
+39. bu
 40. model
-41. kapı
-42. sandalye
-43. sinema oyuncusu
-44. banka çalışanı
-45. atıştırmalık
-46. ayna
-47. muhasebeci
-48. bu
-49. kağıt
-50. tükenmez kalem
-51. takvim
-52. şirket çalışanı
+41. kağıt
+42. avukat
+43. tebeşir
+44. o
+45. kitap
+46. sekreter
+47. doktor
+48. kapı
+49. elbise askısı
+50. bilgisayar
+51. pasaport
+52. sınıf

@@ -1,111 +1,111 @@
-﻿한국어 101 / 수업 3 / 연습 퀴즈 19
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 19
 
-1. 책상
-2. 회계사
-3. 열쇠
-4. 자
-5. 이
-6. 지우개
-7. 칠판
-8. 필통
-9. 돈
-10. 지도
-11. 회사원
-12. 의사
-13. 휴지
-14. 비서
-15. 책
-16. 옷걸이
-17. 가방
-18. 볼펜
-19. ﻿사전
-20. 모자
-21. 분필
-22. 텔레비전
-23. 그림
+1. 칠판
+2. 볼펜
+3. 이
+4. 그림
+5. 영화배우
+6. 지도
+7. 거울
+8. 교수
+9. 그
+10. 필통
+11. 지갑
+12. 교과서
+13. 회사원
+14. 간호사
+15. 저
+16. 문
+17. 과자
+18. 옷걸이
+19. 연필
+20. 지우개
+21. 경찰
+22. 여권
+23. 기자
 24. 변호사
-25. 교수
-26. 영화배우
-27. 여권
-28. 그
-29. 기자
-30. 창문
-31. 종이
-32. 수첩
-33. 거울
-34. 지갑
-35. 모델
-36. 저
-37. 신분증 카드
-38. 연필
-39. 교실
-40. 컴퓨터
-41. 과자
-42. 문
-43. 달력
-44. 의자
-45. 손수건
-46. 은행원
-47. 간호사
-48. 가수
-49. 물건
-50. 교과서
-51. 경찰
-52. 잡지
+25. 책상
+26. 휴지
+27. 교실
+28. ﻿사전
+29. 의자
+30. 비서
+31. 가수
+32. 열쇠
+33. 책
+34. 컴퓨터
+35. 물건
+36. 가방
+37. 창문
+38. 의사
+39. 모자
+40. 회계사
+41. 종이
+42. 모델
+43. 잡지
+44. 달력
+45. 돈
+46. 신분증 카드
+47. 텔레비전
+48. 자
+49. 손수건
+50. 분필
+51. 수첩
+52. 은행원
 
 
 -----------------
 
 
-1. sıra
-2. muhasebeci
-3. ayna
-4. silgi
-5. bu
-6. tebeşir
-7. harita
-8. kalem kutusu
-9. para
-10. pencere
-11. şirket çalışanı
-12. doktor
-13. atıştırmalık
-14. sekreter
-15. kitap
-16. elbise askısı
-17. çanta
-18. cetvel
-19. sözlük
-20. mendil
-21. yazı tahtası
-22. televizyon
-23. resm
+1. yazı tahtası
+2. tükenmez kalem
+3. bu
+4. resim
+5. sinema oyuncusu
+6. harita
+7. ayna
+8. profesör
+9. o
+10. kalem kutusu
+11. cüzdan
+12. ders kitabı
+13. şirket çalışanı
+14. hemşire
+15. şu
+16. kapı
+17. atıştırmalık
+18. elbise askısı
+19. kurşun kalem
+20. silgi
+21. polis
+22. pasaport
+23. gazeteci
 24. avukat
-25. profesör
-26. sinema oyuncusu
-27. pasaport
-28. o
-29. gazeteci
-30. peçete/tuvalet kağıdı
-31. kağıt
+25. sıra
+26. peçete/tuvalet kağıdı
+27. sınıf
+28. sözlük
+29. sandalye
+30. sekreter
+31. şarkıcı
 32. anahtar
-33. şapka
-34. cüzdan
-35. model
-36. şu
-37. kimlik kartı
-38. kurşun kalem
-39. sınıf
-40. bilgisayar
-41. ajanda
-42. kapı
-43. takvim
-44. sandalye
-45. tükenmez kalem
-46. banka çalışanı
-47. hemşire
-48. şarkıcı
-49. eşya
-50. ders kitabı
-51. polis
-52. dergi
+33. kitap
+34. bilgisayar
+35. eşya
+36. çanta
+37. pencere
+38. doktor
+39. şapka
+40. muhasebeci
+41. kağıt
+42. model
+43. dergi
+44. takvim
+45. para
+46. kimlik kartı
+47. televizyon
+48. cetvel
+49. mendil
+50. tebeşir
+51. ajanda
+52. banka çalışanı

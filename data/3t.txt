@@ -20,7 +20,7 @@ peçete/tuvalet kağıdı
 pencere
 harita
 yazı tahtası
-resm
+resim
 takvim
 kağıt
 elbise askısı
