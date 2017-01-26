@@ -1,5 +1,5 @@
 ## KR-TR Word Quizes ##
-* (This file is in two languages: **Turkish** and **English**) *
+*(This file is in two languages: Turkish and English)*
 
 ----------
 [Korece Öğreniyorum ders kitabı](http://www.pandora.com.tr/urun/korece-ogreniyorum-1/461326)na ait kelime quizleri.
