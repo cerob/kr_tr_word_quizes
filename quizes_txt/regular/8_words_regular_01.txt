@@ -1,4 +1,4 @@
-﻿한국어 101 / 수업 1 / 연습 퀴즈 1
+﻿한국어 101 / 수업 1-8 / 연습 퀴즈 1
 
 1. 부모님
 2. 할아버지
@@ -51,36 +51,34 @@
 49. 아흔
 50. 오전
 51. 오후
-52. 
-53. 예외
-54. 나=저
-55. 우리=저희
-56. 말=말씀
-57. 나이=연세
-58. 밥=진지
-59. 사람=분
-60. 생일=생신
-61. 집=댁
-62. 이름=성함
-63. 아내=부인
-64. 
-65. 사림/명/분
-66. 개
-67. 잔
-68. 병
-69. 그릇
-70. 대
-71. 켤레
-72. 마리
-73. 자루
-74. 벌
-75. 송이
-76. 장
-77. 통
-78. 살
-79. 시
-80. 시간
-81. 번
+52. 예외
+53. 나=저
+54. 우리=저희
+55. 말=말씀
+56. 나이=연세
+57. 밥=진지
+58. 사람=분
+59. 생일=생신
+60. 집=댁
+61. 이름=성함
+62. 아내=부인
+63. 사람/명/분
+64. 개
+65. 잔
+66. 병
+67. 그릇
+68. 대
+69. 켤레
+70. 마리
+71. 자루
+72. 벌
+73. 송이
+74. 장
+75. 통
+76. 살
+77. 시
+78. 시간
+79. 번
 
 
 -----------------
@@ -117,53 +115,51 @@
 29. vermek
 30. söylemek
 31. birini bir yere götürmek
-32. 1
-33. 2
-34. 3
-35. 4
-36. 5
-37. 6
-38. 7
-39. 8
-40. 9
-41. 10
-42. 20
-43. 30
-44. 40
-45. 50
-46. 60
-47. 70
-48. 80
-49. 90
+32. 1 (korece)
+33. 2 (korece)
+34. 3 (korece)
+35. 4 (korece)
+36. 5 (korece)
+37. 6 (korece)
+38. 7 (korece)
+39. 8 (korece)
+40. 9 (korece)
+41. 10 (korece)
+42. 20 (korece)
+43. 30 (korece)
+44. 40 (korece)
+45. 50 (korece)
+46. 60 (korece)
+47. 70 (korece)
+48. 80 (korece)
+49. 90 (korece)
 50. öğleden önce
 51. öğleden sonra
-52. 
-53. istisna
-54. ben
-55. biz
-56. söz
-57. yaş
-58. yemek
-59. insan/kişi
-60. doğum günü
-61. ev
-62. isim
-63. (kadın) eş
-64. 
-65. insan (adet)
-66. tane (adet)
-67. fincan (adet)
-68. şişe (adet)
-69. tabak (adet)
-70. büyük elektronik eşya  (adet)
-71. çift (adet)
-72. hayvan (adet)
-73. kalem (adet)
-74. elbise (adet)
-75. çiçek (adet)
-76. kağıt (adet)
-77. kutu (adet)
-78. yaş (adet)
-79. saat (adet)
-80. saat (süre)
-81. defa/kez
+52. istisna
+53. ben
+54. biz
+55. söz
+56. yaş
+57. yemek
+58. insan/kişi
+59. doğum günü
+60. ev
+61. isim
+62. (kadın) eş
+63. insan (adet)
+64. tane (adet)
+65. fincan (adet)
+66. şişe (adet)
+67. tabak (adet)
+68. büyük elektronik eşya (adet)
+69. çift (adet)
+70. hayvan (adet)
+71. kalem (adet)
+72. elbise (adet)
+73. çiçek (adet)
+74. kağıt (adet)
+75. kutu (adet)
+76. yaş (adet)
+77. saat (adet)
+78. saat (süre)
+79. defa/kez

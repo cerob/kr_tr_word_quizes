@@ -1,0 +1,28 @@
+음료수,içecek
+주문하다=음식을 시키다,sipariş vermek
+메뉴,menü
+중에서,arasında
+보통,genelde
+외국,yurtdışı
+외국인,yabancı
+파티,parti
+선물,hediye
+아침(밥),kahvaltı
+점심(밥),öğle yemeği
+저녁(밥),akşam yemeği
+먼저,önce
+좀,biraz
+손님,müşteri / misafir
+풍선(을) 풀다,balon(u) şişirmek
+준비하다,hazırlamak
+연락주다 (연락드리다),haber vermek
+도착하다,varmak
+늦다,geç kalmak
+서두르다,acele etmek
+받다,almak
+벗다,üstünü çıkarmak
+조용히하다,sessiz olmak
+일어나다,uyanmak / ayağa kalkmak
+인사하다,selamlamak
+다음부터는 (=다음부턴),ondan sonra
+대,... zaman
