@@ -1,169 +1,165 @@
 ﻿한국어 101 / 수업 8 / 연습 퀴즈 19
 
-1. 예순
-2. 우리=저희
-3. 조카
-4. 아빠
-5. 살
-6. 서른
-7. 벌
-8. 켤레
-9. 사람=분
-10. 둘
-11. 고향
-12. 셋
-13. 드시다=잡수시다 (먹다)
-14. 드리다 (주다)
-15. 누나
-16. 언니
-17. 저희
-18. 시
-19. 주무시다 (자다)
-20. 삼촌
-21. 
-22. 할아버지
-23. 오전
-24. 하나
-25. 오후
-26. 일곱
-27. 말=말씀
-28. 그릇
-29. 잔
-30. 송이
-31. 예외
-32. 남동생
-33. 집=댁
-34. 아버지
-35. 번
-36. 통
-37. 다섯
-38. 대
-39. 나=저
-40. 부모님
-41. 병
-42. 쉰
-43. 자루
-44. 명
-45. 장
-46. 모셔가다 (데려가다)
-47. 사림/명/분
-48. 여섯
-49. 개
-50. 할머니
-51. 계시다 (있다)
-52. 밥=진지
-53. 사진
-54. 아홉
-55. 이름=성함
-56. 넷
-57. 돌아가시다 (죽다)
-58. 엄마
-59. 여든
-60. 형
-61. 스물 (스무 + isim)
-62. 아내=부인
-63. 나이=연세
-64. 이모
-65. 말씀하시다 (말하다)
-66. 아흔
-67. 마흔
-68. 
-69. 생일=생신
-70. 여덟
-71. 어머니
-72. 일흔
-73. 시간
-74. 교수
-75. 고모
-76. 모두
-77. 열
-78. 마리
-79. 여동생
-80. 오빠
-81. 마치다
+1. 자루
+2. 다섯
+3. 오빠
+4. 여섯
+5. 남동생
+6. 켤레
+7. 말=말씀
+8. 여동생
+9. 모두
+10. 나이=연세
+11. 일곱
+12. 우리=저희
+13. 예외
+14. 아버지
+15. 언니
+16. 아빠
+17. 잔
+18. 여덟
+19. 고모
+20. 드시다=잡수시다 (먹다)
+21. 조카
+22. 시간
+23. 사람=분
+24. 고향
+25. 열
+26. 셋
+27. 서른
+28. 생일=생신
+29. 둘
+30. 밥=진지
+31. 누나
+32. 할아버지
+33. 계시다 (있다)
+34. 장
+35. 모셔가다 (데려가다)
+36. 벌
+37. 살
+38. 번
+39. 드리다 (주다)
+40. 마흔
+41. 오전
+42. 병
+43. 그릇
+44. 집=댁
+45. 통
+46. 말씀하시다 (말하다)
+47. 하나
+48. 개
+49. 송이
+50. 명
+51. 형
+52. 이모
+53. 나=저
+54. 스물 (스무 + isim)
+55. 돌아가시다 (죽다)
+56. 일흔
+57. 아홉
+58. 마치다
+59. 예순
+60. 시
+61. 대
+62. 사진
+63. 아흔
+64. 이름=성함
+65. 부모님
+66. 교수
+67. 마리
+68. 여든
+69. 어머니
+70. 오후
+71. 쉰
+72. 저희
+73. 할머니
+74. 삼촌
+75. 엄마
+76. 사람/명/분
+77. 넷
+78. 아내=부인
+79. 주무시다 (자다)
 
 
 -----------------
 
 
-1. 60
-2. biz
-3. yeğen
-4. babacığım
-5. yaş (adet)
-6. 30
-7. elbise (adet)
-8. çift (adet)
-9. insan/kişi
-10. 2
-11. memleket
-12. 3
-13. yemek yemek
-14. vermek
-15. (erkekler için) abla
-16. (kızlar için) abla
-17. (kibarca) biz
-18. saat (adet)
-19. uyumak
-20. amca
-21. 
-22. büyükbaba
-23. öğleden önce
-24. 1
-25. öğleden sonra
-26. 7
-27. söz
-28. tabak (adet)
-29. fincan (adet)
-30. çiçek (adet)
-31. istisna
-32. erkek kardeş
-33. ev
-34. baba
-35. defa/kez
-36. kutu (adet)
-37. 5
-38. büyük elektronik eşya  (adet)
-39. ben
-40. anne ve bana
-41. şişe (adet)
-42. 50
-43. kalem (adet)
-44. (insanlar için) kişi sayısı
-45. kağıt (adet)
-46. birini bir yere götürmek
-47. insan (adet)
-48. 6
-49. tane (adet)
-50. büyükanne
-51. bir yerde olmak
-52. yemek
-53. fotoğraf
-54. 9
-55. isim
-56. 4
-57. ölmek
-58. anneciğim
-59. 80
-60. (erkekler için) abi
-61. 20
-62. (kadın) eş
-63. yaş
-64. teyze
-65. söylemek
-66. 90
-67. 40
-68. 
-69. doğum günü
-70. 8
-71. anne
-72. 70
-73. saat (süre)
-74. profesör
-75. hala
-76. tüm
-77. 10
-78. hayvan (adet)
-79. kız kardeş
-80. (kızlar için) abi
-81. bitirmek
+1. kalem (adet)
+2. 5 (korece)
+3. (kızlar için) abi
+4. 6 (korece)
+5. erkek kardeş
+6. çift (adet)
+7. söz
+8. kız kardeş
+9. tüm
+10. yaş
+11. 7 (korece)
+12. biz
+13. istisna
+14. baba
+15. (kızlar için) abla
+16. babacığım
+17. fincan (adet)
+18. 8 (korece)
+19. hala
+20. yemek yemek
+21. yeğen
+22. saat (süre)
+23. insan/kişi
+24. memleket
+25. 10 (korece)
+26. 3 (korece)
+27. 30 (korece)
+28. doğum günü
+29. 2 (korece)
+30. yemek
+31. (erkekler için) abla
+32. büyükbaba
+33. bir yerde olmak
+34. kağıt (adet)
+35. birini bir yere götürmek
+36. elbise (adet)
+37. yaş (adet)
+38. defa/kez
+39. vermek
+40. 40 (korece)
+41. öğleden önce
+42. şişe (adet)
+43. tabak (adet)
+44. ev
+45. kutu (adet)
+46. söylemek
+47. 1 (korece)
+48. tane (adet)
+49. çiçek (adet)
+50. (insanlar için) kişi sayısı
+51. (erkekler için) abi
+52. teyze
+53. ben
+54. 20 (korece)
+55. ölmek
+56. 70 (korece)
+57. 9 (korece)
+58. bitirmek
+59. 60 (korece)
+60. saat (adet)
+61. büyük elektronik eşya (adet)
+62. fotoğraf
+63. 90 (korece)
+64. isim
+65. anne ve bana
+66. profesör
+67. hayvan (adet)
+68. 80 (korece)
+69. anne
+70. öğleden sonra
+71. 50 (korece)
+72. (kibarca) biz
+73. büyükanne
+74. amca
+75. anneciğim
+76. insan (adet)
+77. 4 (korece)
+78. (kadın) eş
+79. uyumak
