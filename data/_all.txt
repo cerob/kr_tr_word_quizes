@@ -42,31 +42,31 @@
 
 2
 영/공,0
-일,1
-이,2
-삼,3
-사,4
-오,5
-육,6
-칠,7
-팔,8
-구,9
-십,10
-이십,20
-삼십,30
-사십,40
-오십,50
-육십,60
-칠십,70
-팔십,80
-구십,90
-백,100
-천,1000
-만,10000
-십만,100000
-백만,1000000
-천만,10000000
-억,100000000
+일,1 (çince)
+이,2 (çince)
+삼,3 (çince)
+사,4 (çince)
+오,5 (çince)
+육,6 (çince)
+칠,7 (çince)
+팔,8 (çince)
+구,9 (çince)
+십,10 (çince)
+이십,20 (çince)
+삼십,30 (çince)
+사십,40 (çince)
+오십,50 (çince)
+육십,60 (çince)
+칠십,70 (çince)
+팔십,80 (çince)
+구십,90 (çince)
+백,100 (çince)
+천,1000 (çince)
+만,10000 (çince)
+십만,100000 (çince)
+백만,1000000 (çince)
+천만,10000000 (çince)
+억,100000000 (çince)
 일월,ocak
 이월,şubat
 삼월,mart
@@ -108,7 +108,7 @@
 방학,okul tatili
 
 3
-사전,sözlük
+﻿사전,sözlük
 잡지,dergi
 교과서,ders kitabı
 돈,para
@@ -116,21 +116,21 @@
 신분증 카드,kimlik kartı
 연필,kurşun kalem
 필통,kalem kutusu
-지우개,tebeşir
-자,silgi
-볼펜,cetvel
-손수건,tükenmez kalem
-모자,mendil
-거울,şapka
-열쇠,ayna
-수첩,anahtar
-과자,ajanda
-휴지,atıştırmalık
-창문,peçete/tuvalet kağıdı
-지도,pencere
-칠판,harita
-분필,yazı tahtası
-그림,resm
+분필,tebeşir
+지우개,silgi
+자,cetvel
+볼펜,tükenmez kalem
+손수건,mendil
+모자,şapka
+거울,ayna
+열쇠,anahtar
+수첩,ajanda
+과자,atıştırmalık
+휴지,peçete/tuvalet kağıdı
+창문,pencere
+지도,harita
+칠판,yazı tahtası
+그림,resim
 달력,takvim
 종이,kağıt
 옷걸이,elbise askısı
@@ -160,6 +160,7 @@
 모델,model
 영화배우,sinema oyuncusu
 회계사,muhasebeci
+
 
 4
 무엇,ne
@@ -210,6 +211,7 @@
 북,kuzey
 같이=함께,beraber
 가족,aile
+
 
 5
 제일,en çok
@@ -280,6 +282,7 @@
 ...을/를 좋아하다,...den hoşlanmak
 ...이/가 좋다,... iyi olması
 
+
 6
 경치,manzara
 정말,gerçekten
@@ -333,6 +336,7 @@
 덕분에,sayesinde
 때문에,yüzünden
 그렇다,öyle olmak
+
 
 7
 지금,şimdi
@@ -397,27 +401,26 @@
 드리다 (주다),vermek
 말씀하시다 (말하다),söylemek
 모셔가다 (데려가다),birini bir yere götürmek
-하나,1
-둘,2
-셋,3
-넷,4
-다섯,5
-여섯,6
-일곱,7
-여덟,8
-아홉,9
-열,10
-스물 (스무 + isim),20
-서른,30
-마흔,40
-쉰,50
-예순,60
-일흔,70
-여든,80
-아흔,90
+하나,1 (korece)
+둘,2 (korece)
+셋,3 (korece)
+넷,4 (korece)
+다섯,5 (korece)
+여섯,6 (korece)
+일곱,7 (korece)
+여덟,8 (korece)
+아홉,9 (korece)
+열,10 (korece)
+스물 (스무 + isim),20 (korece)
+서른,30 (korece)
+마흔,40 (korece)
+쉰,50 (korece)
+예순,60 (korece)
+일흔,70 (korece)
+여든,80 (korece)
+아흔,90 (korece)
 오전,öğleden önce
 오후,öğleden sonra
-,
 예외,istisna
 나=저,ben
 우리=저희,biz
@@ -429,13 +432,12 @@
 집=댁,ev
 이름=성함,isim
 아내=부인,(kadın) eş
-,
-사림/명/분,insan (adet)
+사람/명/분,insan (adet)
 개,tane (adet)
 잔,fincan (adet)
 병,şişe (adet)
 그릇,tabak (adet)
-대,büyük elektronik eşya  (adet)
+대,büyük elektronik eşya (adet)
 켤레,çift (adet)
 마리,hayvan (adet)
 자루,kalem (adet)

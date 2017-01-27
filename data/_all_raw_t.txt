@@ -125,7 +125,7 @@ peçete/tuvalet kağıdı
 pencere
 harita
 yazı tahtası
-resm
+resim
 takvim
 kağıt
 elbise askısı
@@ -418,7 +418,7 @@ tane (adet)
 fincan (adet)
 şişe (adet)
 tabak (adet)
-büyük elektronik eşya  (adet)
+büyük elektronik eşya (adet)
 çift (adet)
 hayvan (adet)
 kalem (adet)

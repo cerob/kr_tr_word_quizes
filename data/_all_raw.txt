@@ -103,7 +103,7 @@
 참,aklıma gelmişken / bu arada
 어린이날,çocuk bayramı
 방학,okul tatili
-사전,sözlük
+﻿사전,sözlük
 잡지,dergi
 교과서,ders kitabı
 돈,para
@@ -111,21 +111,21 @@
 신분증 카드,kimlik kartı
 연필,kurşun kalem
 필통,kalem kutusu
-지우개,tebeşir
-자,silgi
-볼펜,cetvel
-손수건,tükenmez kalem
-모자,mendil
-거울,şapka
-열쇠,ayna
-수첩,anahtar
-과자,ajanda
-휴지,atıştırmalık
-창문,peçete/tuvalet kağıdı
-지도,pencere
-칠판,harita
-분필,yazı tahtası
-그림,resm
+분필,tebeşir
+지우개,silgi
+자,cetvel
+볼펜,tükenmez kalem
+손수건,mendil
+모자,şapka
+거울,ayna
+열쇠,anahtar
+수첩,ajanda
+과자,atıştırmalık
+휴지,peçete/tuvalet kağıdı
+창문,pencere
+지도,harita
+칠판,yazı tahtası
+그림,resim
 달력,takvim
 종이,kağıt
 옷걸이,elbise askısı
@@ -413,12 +413,12 @@
 집=댁,ev
 이름=성함,isim
 아내=부인,(kadın) eş
-사림/명/분,insan (adet)
+사람/명/분,insan (adet)
 개,tane (adet)
 잔,fincan (adet)
 병,şişe (adet)
 그릇,tabak (adet)
-대,büyük elektronik eşya  (adet)
+대,büyük elektronik eşya (adet)
 켤레,çift (adet)
 마리,hayvan (adet)
 자루,kalem (adet)
