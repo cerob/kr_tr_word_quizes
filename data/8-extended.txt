@@ -29,27 +29,26 @@
 드리다 (주다),vermek
 말씀하시다 (말하다),söylemek
 모셔가다 (데려가다),birini bir yere götürmek
-하나,1
-둘,2
-셋,3
-넷,4
-다섯,5
-여섯,6
-일곱,7
-여덟,8
-아홉,9
-열,10
-스물 (스무 + isim),20
-서른,30
-마흔,40
-쉰,50
-예순,60
-일흔,70
-여든,80
-아흔,90
+하나,1 (korece)
+둘,2 (korece)
+셋,3 (korece)
+넷,4 (korece)
+다섯,5 (korece)
+여섯,6 (korece)
+일곱,7 (korece)
+여덟,8 (korece)
+아홉,9 (korece)
+열,10 (korece)
+스물 (스무 + isim),20 (korece)
+서른,30 (korece)
+마흔,40 (korece)
+쉰,50 (korece)
+예순,60 (korece)
+일흔,70 (korece)
+여든,80 (korece)
+아흔,90 (korece)
 오전,öğleden önce
 오후,öğleden sonra
-,
 예외,istisna
 나=저,ben
 우리=저희,biz
@@ -61,13 +60,12 @@
 집=댁,ev
 이름=성함,isim
 아내=부인,(kadın) eş
-,
-사림/명/분,insan (adet)
+사람/명/분,insan (adet)
 개,tane (adet)
 잔,fincan (adet)
 병,şişe (adet)
 그릇,tabak (adet)
-대,büyük elektronik eşya  (adet)
+대,büyük elektronik eşya (adet)
 켤레,çift (adet)
 마리,hayvan (adet)
 자루,kalem (adet)

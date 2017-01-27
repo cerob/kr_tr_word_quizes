@@ -29,27 +29,26 @@ yemek yemek
 vermek
 söylemek
 birini bir yere götürmek
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-20
-30
-40
-50
-60
-70
-80
-90
+1 (korece)
+2 (korece)
+3 (korece)
+4 (korece)
+5 (korece)
+6 (korece)
+7 (korece)
+8 (korece)
+9 (korece)
+10 (korece)
+20 (korece)
+30 (korece)
+40 (korece)
+50 (korece)
+60 (korece)
+70 (korece)
+80 (korece)
+90 (korece)
 öğleden önce
 öğleden sonra
-
 istisna
 ben
 biz
@@ -61,13 +60,12 @@ doğum günü
 ev
 isim
 (kadın) eş
-
 insan (adet)
 tane (adet)
 fincan (adet)
 şişe (adet)
 tabak (adet)
-büyük elektronik eşya  (adet)
+büyük elektronik eşya (adet)
 çift (adet)
 hayvan (adet)
 kalem (adet)
