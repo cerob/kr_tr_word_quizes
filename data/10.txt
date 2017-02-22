@@ -1,0 +1,36 @@
+﻿싶어하다,istemek
+이(를) 닦다,diş fırçalamak
+세수(를) 하다,yüzünü yıkamak
+머리(를) 감다,saçını yıkamak
+샤워(를) 하다,duş almak
+목욕(을) 하다,banyo yapmak
+그래요,öyle / olur
+수업,ders
+내리다,inmek
+타다,binmek
+잠깐,biraz
+쯤,yaklaşık
+청소(를) 하다,temizlik yapmak
+씻다,yıkamak
+손,el
+거울,ayna
+웃다,gülmek
+아르바이트(를) 하다,part-time çalışmak
+돌아오다,geri dönmek
+끝나다,bitmek
+서다,ayakta durmak
+켜다,açmak
+아프다,acımak / ağrımak / hasta olmak
+춤(을) 추다,dans etmek
+바꾸다,değiştirmek
+가르치다,öğretmek
+기다리다,beklemek
+헤어지다,ayrılmak
+작년,geçen sene
+올해,bu sene
+내년,gelecek sene
+주말,hafta sonu
+같이,beraber
+이틀,iki gün
+다르다,farklı olmak
+주로,genelde
