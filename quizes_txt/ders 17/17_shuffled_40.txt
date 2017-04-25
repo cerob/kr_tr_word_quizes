@@ -1,0 +1,99 @@
+﻿한국어 102 / 수업 17 / 연습 퀴즈 40
+
+1. mesaj göndermek
+2. telefon etmek
+3. sipariş vermek
+4. telefon numarası
+5. morali düzelmek
+6. sorunu/problemı çözmek
+7. kamyon
+8. biraz
+9. uçak
+10. araba
+11. hatırlamak
+12. karşı taraf
+13. tramvay
+14. sözünü tutmamak
+15. söz dinlemek
+16. aşağı inmek
+17. öyle yapacağım
+18. bırakıp gelmek
+19. olmak
+20. kaybetmek
+21. doğrudan
+22. mesajın gelip gelmediğini kontrol etmek
+23. telefon görüşmesi yapıyor olmak / telefonun meşgul çalması
+24. yukarı çıkmak
+25. telefonu kapamak
+26. telefon açmak / telefonu cevaplamak
+27. sözünü tutmak
+28. gemi / karın / armut
+29. bu sene
+30. yalnız
+31. daha sonra
+32. adres
+33. biri aracılığıyla iletmek
+34. motorsiklet
+35. mesaj (sms)
+36. ısmarlamak
+37. az önce
+38. dağa çıkmak
+39. söz vermek
+40. tren
+41. karşıya geçmek
+42. eve servis yapmak
+43. kelime
+44. bisiklet
+45. cümle
+46. telefon etmek
+
+
+-----------------
+
+
+1. 문자(를) 보내다
+2. 통화(를) 하다
+3. 주문(을) 하다
+4. 전화번호
+5. 기분이 좋아지다
+6. 문제(를) 풀다 
+7. 트럭
+8. 잠시만요=잠깐만요
+9. 비행기
+10. 자동차
+11. 생각(이) 나다
+12. 건너편
+13. 트람바이
+14. 약속(을) 어기다
+15. 말(을) 잘듣다
+16. 내려가다
+17. 그럴게요
+18. 두고 오다
+19. 되다
+20. 잃어버리다
+21. 똑바로
+22. 문자(를) 확인하다
+23. 통화중이다
+24. 올라가다
+25. 전화(를) 끊다
+26. 전화(를) 받다
+27. 약속(을) 지키다
+28. 배
+29. 올해
+30. 혼자
+31. 담에=다음에
+32. 주소
+33. 전해주다
+34. 오토바이
+35. 문자
+36. 대접하다
+37. 아까
+38. 등산(을) 하다
+39. 약속하다
+40. 기차
+41. 건너가다
+42. 배달해주다
+43. 단어
+44. 자전거
+45. 문장
+46. 전화(를) 걸다

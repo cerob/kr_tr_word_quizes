@@ -12,4 +12,4 @@ def splitter():
 
 if __name__ == '__main__':
     splitter()
-#python _splitter.py 7.txt 7k.txt 0
+#python _split.py 7.txt 7k.txt 0

@@ -1,0 +1,46 @@
+전화번호,telefon numarası
+잃어버리다,kaybetmek
+잠시만요=잠깐만요,biraz
+그럴게요,öyle yapacağım
+두고 오다,bırakıp gelmek
+약속하다,söz vermek
+약속(을) 지키다,sözünü tutmak
+약속(을) 어기다,sözünü tutmamak
+통화(를) 하다,telefon etmek
+전화(를) 받다,telefon açmak / telefonu cevaplamak
+전화(를) 걸다,telefon etmek
+문자(를) 보내다,mesaj göndermek
+문자(를) 확인하다,mesajın gelip gelmediğini kontrol etmek
+전화(를) 끊다,telefonu kapamak
+통화중이다,telefon görüşmesi yapıyor olmak / telefonun meşgul çalması
+주문(을) 하다,sipariş vermek
+배달해주다,eve servis yapmak
+생각(이) 나다,hatırlamak
+담에=다음에,daha sonra
+말(을) 잘듣다,söz dinlemek
+혼자,yalnız
+트럭,kamyon
+전해주다,biri aracılığıyla iletmek
+문제(를) 풀다,sorunu/problemı çözmek
+대접하다,ısmarlamak
+등산(을) 하다,dağa çıkmak
+되다,olmak
+주소,adres
+기분이 좋아지다,morali düzelmek
+문자,mesaj (sms)
+기차,tren
+비행기,uçak
+배,gemi / karın / armut
+자동차,araba
+자전거,bisiklet
+오토바이,motorsiklet
+트람바이,tramvay
+단어,kelime
+문장,cümle
+아까,az önce
+올해,bu sene
+똑바로,doğrudan
+내려가다,aşağı inmek
+올라가다,yukarı çıkmak
+건너가다,karşıya geçmek
+건너편,karşı taraf
